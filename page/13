@@ -1,0 +1,377 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Ivan Trunaev">
+    <meta name="generator" content="Hands">
+    <title>Поток :: Кошерный Сайт</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body style="background: #ebedf0;">
+
+
+    
+<div class="container rounded-2" style="max-width: 600px; background: white;">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+		  <span class="fs-2"><strong>&#x2721;</strong></span>&nbsp;
+        <span class="fs-4">Кошерный Сайт</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/">Поток</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/cohen">Коэн</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/donate">Гешефт</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="margin-top: -30px;">
+    <div class="p-3 mx-auto">
+		<a href="javascript: (() => { function rus_to_latin ( str ) {var ru = {'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'e', 'ж': 'j', 'з': 'z', 'и': 'i', 'к': 'k', 'л': 'l', 'м': 'm', 'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h', 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch', 'ы': 'y', 'э': 'e', 'ю': 'u', 'я': 'ya'}, n_str = [];str = str.replace(/[ъь]+/g, '').replace(/й/g, 'i');for ( var i = 0; i < str.length; ++i ) {n_str.push(ru[ str[i] ]|| ru[ str[i].toLowerCase() ] == undefined && str[i]|| ru[ str[i].toLowerCase() ].toUpperCase());}return n_str.join('');} document.documentElement.innerHTML = rus_to_latin(document.documentElement.innerHTML); })();">Russian to translit</a><br/><br/>
+      
+
+
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://t.me/apple_cohen/34"><strong>https://t.me/apple_cohen/34</strong></a> at Sun Dec  3 20:55:41 2023
+    <p class="card-text">
+			Recover my old website at url - <a href="https://yahwe.kosherny.site/" target="_blank" rel="noopener">https://yahwe.kosherny.site/</a>
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/king_magazin"><strong>https://vk.com/king_magazin</strong></a> at Fri Dec  1 07:56:31 2023
+    <p class="card-text">
+			На Wildberries можно приобрести кеды Nike Air Jordan за полторы!
+			<br/>
+			
+			<br/>
+			https://www.wildberries.ru/catalog/123583969/detail.aspx?targetUrl=GP Nike Кроссовки мужские Аир джорданы
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Fri Dec  1 02:44:00 2023
+    <p class="card-text">
+			Flow Piano Bass
+			<br/>
+			C G A# A
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 12:57:00 2023
+    <p class="card-text">
+			Панк-семеня. Семя шестое «о фейках с пруфами»
+			<br/>
+			
+			<br/>
+			Прикиньте, что даже без подделки в Википедию можно сделать фейк: написать в газете, выявлено, что обрезание крайней плоти у мужчин  - приводи к шизофрении, и далее истории мужика, как у него началась травма, когда он рассказал друзьям на Новый Год, что ему хер обрезали в детстве без его согласия, и это указывается в его истории болезни - как причина заболевания. Хуй поспоришь - медики выявили!
+			<br/>
+			Не ведь громким словам, всегда попробуй опровергнуть - если случай единичный, попробуй прикинуть, сколько людей с обрезанием - не шизофреники? Да это весь Израиль, мужики!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 12:50:04 2023
+    <p class="card-text">
+			Шаман-рассада о лечении: как выжить, если приболел
+			<br/>
+			
+			<br/>
+			Запомните, если болеешь - нужно довериться Уму, если он есть! Для начала сформулировать самому - чем ты болен, поставить диагноз, без справочников, и помощи, определить все по самочувствию, понять как ты заболел, и сделал выводы, учесть на будущее, как больше не влететь так в дело, а потом - составить список мер по лечений - терапию (это могут быть как лекарства, так даже и упражнения, или пост, или изменение жизни), а потом - провести эту терапию!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 12:36:53 2023
+    <p class="card-text">
+			Панк-семна. Семя пятое: «для особенных»
+			<br/>
+			
+			<br/>
+			Прикиньте, как можно загнобить талантливого человека, что он на деле подписывается «ебанутым внутри», ладно - «ебанутый снаружи», просто люди не понимают, а значит - не его люди, зачем впитывать их оскорбления? Может быть просто - не рассказывать таким людям все ценное, а найти другую аудиторию - например паблик ВКонтакте, или друзья, если боишься. Интересно, когда это началось, после рехабов? Неужели он не мог найти ни одного похоже на него человека, которому скажешь: давай убедимся на деле, что мы одинаковые, попробуем поугадывать слова, которые загадываем, и если мы оба - телепаты - будем дружить!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 10:40:44 2023
+    <p class="card-text">
+			Шаман-расскада о пропуске: как жить
+			<br/>
+			
+			<br/>
+			В жизни я много пропустил: армию, выпускные вечера, тусовки с друзьями, друзей детства, окончание универа, любовь, правду, свободу на большую часть осознанной жизни. Подумай - как тебе не пропустить рос корней силы! Что это?
+			<br/>
+			Представь - шаман дает семена для низших, а ты съедаешь - и срешь всем - что он - педик! Какие у тебя будут корни?
+			<br/>
+			Что не пропустить их рост - нужно расти, сеять в свои сады, а в чужих не срать, а если срал - исправляться!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 10:31:38 2023
+    <p class="card-text">
+			Панк-семена. Семя четвертое: «о табачке»
+			<br/>
+			
+			<br/>
+			Раньше, когда я курил первые лет 5, я, бывало, по-утрам замечал как черная хуйня типа говна голубей схаркивается во время утреннего туалета из моего горла. Интересно это можно есть? Типа в шоколад добавлять?
+			<br/>
+			Прикиньте, что если Китайцы добавляют харчки курильщиков в сникерсы?
+			<br/>
+			Возможно, у меня, кстати, на зубах в последние пару лет налет - как эти харчки из молодости!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 10:20:56 2023
+    <p class="card-text">
+			Шаман-рассада о жизни: если умираешь
+			<br/>
+			
+			<br/>
+			Например, вдруг мотор заглох - ты лежишь и тишина, что потом? Только одно - смерть от передозировки тишины, то есть остановка органов дыхания - ты возненавидишь себя до такой степени чтобы за провал, что остановится Сердце! Поэтому имейте хорошие мысли, чтобы не умереть в запасе!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 10:16:01 2023
+    <p class="card-text">
+			Шаман-рассада для засохших: байка о болезни
+			<br/>
+			
+			<br/>
+			Например кто-то сверху, простой как лучик посветил - а ты - решил отразить!
+			<br/>
+			Что делать?
+			<br/>
+			Извиниться?
+			<br/>
+			Недостаточно, нужно еще забрать себе отражение каким-то образом - иначе будешь как невидимка сам для себя!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 10:08:38 2023
+    <p class="card-text">
+			Панк-семена. Семя третье: «про пустышек»
+			<br/>
+			
+			<br/>
+			Говорят в матрице - все заряжают, но я знаю моменты - когда меня разряжают! Куда они девают эту энергию? Заряжают пустышек?
+			<br/>
+			Кто это?
+			<br/>
+			Может - это сломанные люди!
+			<br/>
+			Например шаман на ритуале - что сунут в человека, а он - забыл выплюнуть!
+			<br/>
+			Аккуратнее с шаманами!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 10:04:57 2023
+    <p class="card-text">
+			Панк-семена. Семя второе: «про демонов»
+			<br/>
+			
+			<br/>
+			Раньше я любил поесть грибов ради экспериментов, и потом люди - превращали на глазах в демонов! Я хотел их убить - но было страшно! 
+			<br/>
+			Прошли годы, и меня сейчас прет без грибов - а некоторые люди - как демоны! Мне страшно бывает от таких мыслей!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 10:00:36 2023
+    <p class="card-text">
+			Панк-семена. Первое семя: «о лихих»!
+			<br/>
+			
+			<br/>
+			Я оказывался на сборищах лихих, они закидывали меня панк-семенами, и я - охуевал, я ждал - когда меня научат «той самой хуйнюшке», но они не учили! Я подумывал, неужели нужно платить деньги, и это - секта?
+			<br/>
+			Хорошо, что я не заговорил о своих тревогах с ними в вслух!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 09:10:27 2023
+    <p class="card-text">
+			Февраль 22
+			<br/>
+			
+			<br/>
+			Опять пацанов посадили
+			<br/>
+			Сказали нам в новостям
+			<br/>
+			Снова дело, висяк
+			<br/>
+			А потом - раз и хуяк
+			<br/>
+			Заряжаем - по Львову
+			<br/>
+			Там Троцкого имени город
+			<br/>
+			Наверное, партии золото?
+			<br/>
+			Ебнем по Днепру
+			<br/>
+			Пусть пью из ЧАЭС-а
+			<br/>
+			Пусть за Киевский крест
+			<br/>
+			Самолет МЧС-а
+			<br/>
+			Сядет на садик
+			<br/>
+			Где дети зимуют
+			<br/>
+			А мы - обожжем
+			<br/>
+			За компом - покайфуем!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Nov 30 08:36:05 2023
+    <p class="card-text">
+			Организация текстового поиска для сервиса типа ВКонтакте 
+			<br/>
+			
+			<br/>
+			1. Выгружать все текста: фамилии, личные данные типа городов, все посты, комменты, названия и исполнителей аудиозаписей, название видео, названия пабликов, кроме чатов.
+			<br/>
+			Выгружать в виде: content_type, content_id, content
+			<br/>
+			
+			<br/>
+			Выгружать на отдельный изолированный сервер - сторадж, или облако, если данных много.
+			<br/>
+			
+			<br/>
+			2. Создать давних вход: еще одни ворота, чтобы если сломается, или загрузится сервис - не упало все.
+			<br/>
+			
+			<br/>
+			3. Сделать API на этот сервис через JSON-Ajax, с asynchronous-запросами, и прикрутить на сайт.
+			<br/>
+			
+			<br/>
+			4. Поисковик может быть любой - сфинкс, или даже Яндекс корпоративной версии.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Wed Nov 29 16:42:14 2023
+    <p class="card-text">
+			Кавера на Егора Летова
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://t.me/apple_cohen/33"><strong>https://t.me/apple_cohen/33</strong></a> at Wed Nov 29 14:09:19 2023
+    <p class="card-text">
+			Redrawing with English Mandala for Dalai-Lama
+			<br/>
+	</p>
+  </div>
+</div><br/>
+
+
+
+<br/>
+<nav>
+  <ul class="pagination justify-content-center">
+		<li class="page-item"><a class="page-link" href="/page/12">&lt;</a></li>
+		<li class="page-item"><a class="page-link" href="/">1</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+				<li class="page-item"><a class="page-link" href="/page/11">11</a></li>
+				<li class="page-item"><a class="page-link" href="/page/12">12</a></li>
+				<li class="page-item active"><span class="page-link">13</span></li>
+				<li class="page-item"><a class="page-link" href="/page/14">14</a></li>
+				<li class="page-item"><a class="page-link" href="/page/15">15</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+		<li class="page-item"><a class="page-link" href="/page/106">106</a></li>	
+	
+		<li class="page-item"><a class="page-link" href="/page/14">&gt;</a></li>
+  </ul>
+</nav>
+
+
+</div>
+
+    </div>
+
+
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <small class="d-block mb-3 text-body-secondary">&copy; 2023</small>
+      </div>
+     
+    </div>
+  </footer>
+</div>
+    </body>
+</html>

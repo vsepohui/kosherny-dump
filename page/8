@@ -1,0 +1,525 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Ivan Trunaev">
+    <meta name="generator" content="Hands">
+    <title>Поток :: Кошерный Сайт</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body style="background: #ebedf0;">
+
+
+    
+<div class="container rounded-2" style="max-width: 600px; background: white;">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+		  <span class="fs-2"><strong>&#x2721;</strong></span>&nbsp;
+        <span class="fs-4">Кошерный Сайт</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/">Поток</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/cohen">Коэн</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/donate">Гешефт</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="margin-top: -30px;">
+    <div class="p-3 mx-auto">
+		<a href="javascript: (() => { function rus_to_latin ( str ) {var ru = {'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'e', 'ж': 'j', 'з': 'z', 'и': 'i', 'к': 'k', 'л': 'l', 'м': 'm', 'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h', 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch', 'ы': 'y', 'э': 'e', 'ю': 'u', 'я': 'ya'}, n_str = [];str = str.replace(/[ъь]+/g, '').replace(/й/g, 'i');for ( var i = 0; i < str.length; ++i ) {n_str.push(ru[ str[i] ]|| ru[ str[i].toLowerCase() ] == undefined && str[i]|| ru[ str[i].toLowerCase() ].toUpperCase());}return n_str.join('');} document.documentElement.innerHTML = rus_to_latin(document.documentElement.innerHTML); })();">Russian to translit</a><br/><br/>
+      
+
+
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 04:07:54 2023
+    <p class="card-text">
+			Топ-2 сайтов (80% web-трафика + приложений) за 2019-2023 года:
+			<br/>
+			
+			<br/>
+			1. Vk com (паблиrи Паши Техника в закрытые платные, и на бесплатно через прокси) / Сайт которые делал Сергей Н. (все раскрутка через Xrommer по маркову, слова- посты Ивана Т. с коррекцией орфографии, хосты - бесплатка + 90% тор, странно, что это в индексе).
+			<br/>
+			2. Tor Ra (Проект Нео).
+			<br/>
+			3. Сайты и сервисы GPT
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 04:05:39 2023
+    <p class="card-text">
+			Топ-3 за 2018 год:
+			<br/>
+			
+			<br/>
+			1. Duckgogo с топ-3 запросов: "Who is Yahwe", "Yahwe", "Ivan Tru****"
+			<br/>
+			2. Ivan Trunaev в гамах
+			<br/>
+			3. vk com паблик ivan_trunaev, и потом - соседние
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 04:04:12 2023
+    <p class="card-text">
+			Топ-3 сайтов за 2017 год:
+			<br/>
+			
+			<br/>
+			1. Сайты по психиатрии с темами типа "Как лечить шизофрению на дому", youtube-лекции аналогичной тематики
+			<br/>
+			2. Vk.com / Сайты по продаже хорошего поддельного галоперидола
+			<br/>
+			3. Сайты по действию и продаже клозапина / сайты с порно под нейролептиками (платка, либо сливы со стримов).
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 04:02:07 2023
+    <p class="card-text">
+			Топ-3 сайтов за 2011-2016 годы:
+			<br/>
+			
+			<br/>
+			1. Drugstores via Tor and I2P
+			<br/>
+			2. Telegram app Android and iPhone API
+			<br/>
+			3. Surfingbird
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 04:00:57 2023
+    <p class="card-text">
+			Топ-3 сайтов за 2009-2010 год по Миру:
+			<br/>
+			
+			<br/>
+			1. Livejournal на прямую, либо через Google Translate и аналоги, блог Навального - 80%
+			<br/>
+			2. Google Reader - блоги по RSS
+			<br/>
+			3. Gmail
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 03:59:46 2023
+    <p class="card-text">
+			Топ-3 сайтов за 2009 год по России и Миру на 90%:
+			<br/>
+			
+			<br/>
+			1. Yandex
+			<br/>
+			2. Google
+			<br/>
+			3. Vkontakte
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 03:58:18 2023
+    <p class="card-text">
+			TOP-10 сайтов по Москве за 2008 год:
+			<br/>
+			
+			<br/>
+			1. Pornhub
+			<br/>
+			2. Adultmult
+			<br/>
+			3. Google vs Yandex
+			<br/>
+			4. Habr vs HH vs LinkedIn
+			<br/>
+			5. Porno-trash
+			<br/>
+			6. Torrents vs track
+			<br/>
+			7. d3
+			<br/>
+			8. Leprosorium
+			<br/>
+			9. Tema
+			<br/>
+			10. tema.livejourna
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 03:48:42 2023
+    <p class="card-text">
+			Чистый последний Debian:
+			<br/>
+			
+			<br/>
+			root@debian:~# apt list —installed|grep track
+			<br/>
+			
+			<br/>
+			WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+			<br/>
+			
+			<br/>
+			libnetfilter-conntrack3/stable,now 1.0.9-3 amd64 [установлен, автоматически]
+			<br/>
+			libxatracker2/stable,now 22.3.6-1+deb12u1 amd64 [установлен, автоматически]
+			<br/>
+			
+			<br/>
+			WTF??????!!!!!!!!!!!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 02:45:04 2023
+    <p class="card-text">
+			Чего не хватает в xserver:
+			<br/>
+			
+			<br/>
+			1. Единого API как WinAPI (Windows 98), чтобы не приходилось использовать qt/tk.
+			<br/>
+			CreateWindow - и у тебя окно, или кнопка, или что-то еще! (Hdlr - xsocket).
+			<br/>
+			
+			<br/>
+			Будет очень здорово писать на Perl:
+			<br/>
+			
+			<br/>
+			use AnyEvent::xserver;
+			<br/>
+			
+			<br/>
+			my $cv = AnyEvent->condvar;
+			<br/>
+			
+			<br/>
+			my $hdlr = AnyEvent::xserver->CreateWindow(width=> 400, height => 100, title => ‘Hello Test’);
+			<br/>
+			
+			<br/>
+			$hdlr->on_message( sub{
+			<br/>
+			   my ($msg) = @_;
+			<br/>
+			   if ($msg->{type} == AnyEvent::xserver::WINDOW_CLOSE) {
+			<br/>
+			      $cv->send;
+			<br/>
+			   }
+			<br/>
+			});
+			<br/>
+			
+			<br/>
+			$cv->recv;
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 02:39:12 2023
+    <p class="card-text">
+			Чего не хватает в Microsoft Windows
+			<br/>
+			
+			<br/>
+			1. Шустрого браузера, типа Firefox
+			<br/>
+			2. Аудио плеера типа Foobar 2000
+			<br/>
+			3. Видео плеера типа Media Player Classic
+			<br/>
+			4. Консоли типа bash с pipe и перенаправлением потоков
+			<br/>
+			5. POSIX для портов с Linux
+			<br/>
+			6. Perl
+			<br/>
+			7. Select или poll из Linux для потоков 
+			<br/>
+			8. Socket как идеи для работы со всем, от файлов до Unix socket, или диска или памяти и просто сети, устройств
+			<br/>
+			9. Root в файловой системе
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 02:10:30 2023
+    <p class="card-text">
+			Все идеи из моей ленты, и других моих, могут браться для ручной работы, если только вы не укажете, что идея, лежащая в основе ваших проектов - ваша (указывайте всех авторов)!
+			<br/>
+			Я не несу ответственность, если у вас что-то пойдет не так, но если вы заработаете - уплатите долю!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 02:04:27 2023
+    <p class="card-text">
+			Проект JuneBrowser
+			<br/>
+			
+			<br/>
+			1. Firefox + 3proxy
+			<br/>
+			2. Одна нода со списком прокси и портов, эту ноду можно поменять в конфиге клиента.
+			<br/>
+			Profit: можно строить цепочки прокси, и заходить на любые сайты, а сервера - размещать в странах, с либеральным законодательством.
+			<br/>
+			Можно даже сделать проще: написать сервер ноды с листом, и расширение к Firefox.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 01:41:51 2023
+    <p class="card-text">
+			Как собрать батарейку, которая заряжается за несколько секунд
+			<br/>
+			
+			<br/>
+			1. Читаем в Википедии, или школьном учебнике по Физике для страших классов, что такое конденсатор!
+			<br/>
+			Профит: два контура с предохранительной пастой.
+			<br/>
+			Берем монетки: кедровую жвачку (но лучше - смолу кедра, с коры) жуем, кладем между, соединяем с плюсом и минусом от usb и получаем батарейку на дохуя ампер! Можно упереть от удара током, если зарядить от мощного питания.
+			<br/>
+			Только для постоянного тока!
+			<br/>
+			
+			<br/>
+			От нагревания жевачка высохнет, поэтому лучше помести ее в изолированную среду из неметалла.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 01:13:04 2023
+    <p class="card-text">
+			Как брать специалистов в команду IT:
+			<br/>
+			
+			<br/>
+			1. Спросить, что принесешь за год.
+			<br/>
+			2. Предложить поработать месяц без аванса и посмотреть на результат.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 01:05:20 2023
+    <p class="card-text">
+			Необходимые фишки во ВКонтакте
+			<br/>
+			
+			<br/>
+			1. Верстка клиента на Bootstrap и jQuery
+			<br/>
+			2. RSS-лент на выгрузку для поисковиков
+			<br/>
+			3. Иконка плеера музыки как в старину (символ плей как на пультах электроники на синем круглом фоне).
+			<br/>
+			4. Загрузка музыки из диктофона iPhone из приложения (там формат m4a, но его можно передать в mp3 с помощью ffmpeg).
+			<br/>
+			5. Кнопка dislike, для оценки Кишлака и Паши Техника, двача, лепры, лурка, кросс постов.
+			<br/>
+			
+			<br/>
+			Все это могут делать разные специалисты параллельно!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 00:59:48 2023
+    <p class="card-text">
+			Интересно что во ВКонтакте по карме выше ценится?
+			<br/>
+			
+			<br/>
+			Лайк, который считается зашкваром из-за уведомлений автору, или просмотры, и время потраченное на чтение?
+			<br/>
+			Учитывается ли чтение через API-приложений за просмотры?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 00:55:37 2023
+    <p class="card-text">
+			Про социальные сети
+			<br/>
+			
+			<br/>
+			Странно, что считается, что лента в профиле - это коллекция личных закладок, типа тайника с сокровищами, как шкатулка, или сундук в старинном доме. 
+			<br/>
+			Эту ленту может прочитать любой - поэтому расценивайте ее как персональную газету!
+			<br/>
+			Если в газете кросс-посты, я расцениваю ленту как мусорную рекламную газетенку.
+			<br/>
+			Лучше если так есть что-то свое.
+			<br/>
+			У хорошего пользователя должны быть сообщения. Пример хорошей ленты - у Медведева, может не сам пишет, но что-то можно понять.
+			<br/>
+			А у меня будет музычка:
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 00:13:01 2023
+    <p class="card-text">
+			Про менеджеров в АЙТИ
+			<br/>
+			
+			<br/>
+			Первый день на работе: показывает презентацию с ростом показателей по экспоненте!
+			<br/>
+			А что дальше? Кризис, или купит вселенную?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sun Dec 17 23:52:20 2023
+    <p class="card-text">
+			Секреты Игры Престолов
+			<br/>
+			
+			<br/>
+			1. Ее властитель хотел ритуально запечь невинного зрителя за то, что то смотрел всего несколько эпизодов в пиратке, и не перевел ему донейт
+			<br/>
+			
+			<br/>
+			2. Сериал по правилам, если вы их читали в первом эпизоде, жалко, что этого не на Википедии - бесплатный!
+			<br/>
+			
+			<br/>
+			3. Смотреть сериал хорошо с оригинального Английской, но не Британской, озвучкой
+			<br/>
+			
+			<br/>
+			4. В сериале много мата - первой серии встречается даже whooy 
+			<br/>
+			
+			<br/>
+			5. Бабы пьют вермут с конским семенем, называя этот коктейль «Слеза».
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sun Dec 17 23:43:04 2023
+    <p class="card-text">
+			Коллектора
+			<br/>
+			
+			<br/>
+			Коллектором быть мудро: можно взять работящих мужчин со всеми долгими, и забрать в рабы!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+
+
+
+<br/>
+<nav>
+  <ul class="pagination justify-content-center">
+		<li class="page-item"><a class="page-link" href="/page/7">&lt;</a></li>
+		<li class="page-item"><a class="page-link" href="/">1</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+				<li class="page-item"><a class="page-link" href="/page/6">6</a></li>
+				<li class="page-item"><a class="page-link" href="/page/7">7</a></li>
+				<li class="page-item active"><span class="page-link">8</span></li>
+				<li class="page-item"><a class="page-link" href="/page/9">9</a></li>
+				<li class="page-item"><a class="page-link" href="/page/10">10</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+		<li class="page-item"><a class="page-link" href="/page/106">106</a></li>	
+	
+		<li class="page-item"><a class="page-link" href="/page/9">&gt;</a></li>
+  </ul>
+</nav>
+
+
+</div>
+
+    </div>
+
+
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <small class="d-block mb-3 text-body-secondary">&copy; 2023</small>
+      </div>
+     
+    </div>
+  </footer>
+</div>
+    </body>
+</html>

@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Ivan Trunaev">
+    <meta name="generator" content="Hands">
+    <title>Поток :: Кошерный Сайт</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body style="background: #ebedf0;">
+
+
+    
+<div class="container rounded-2" style="max-width: 600px; background: white;">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+		  <span class="fs-2"><strong>&#x2721;</strong></span>&nbsp;
+        <span class="fs-4">Кошерный Сайт</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/">Поток</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/cohen">Коэн</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/donate">Гешефт</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="margin-top: -30px;">
+    <div class="p-3 mx-auto">
+		<a href="javascript: (() => { function rus_to_latin ( str ) {var ru = {'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'e', 'ж': 'j', 'з': 'z', 'и': 'i', 'к': 'k', 'л': 'l', 'м': 'm', 'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h', 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch', 'ы': 'y', 'э': 'e', 'ю': 'u', 'я': 'ya'}, n_str = [];str = str.replace(/[ъь]+/g, '').replace(/й/g, 'i');for ( var i = 0; i < str.length; ++i ) {n_str.push(ru[ str[i] ]|| ru[ str[i].toLowerCase() ] == undefined && str[i]|| ru[ str[i].toLowerCase() ].toUpperCase());}return n_str.join('');} document.documentElement.innerHTML = rus_to_latin(document.documentElement.innerHTML); })();">Russian to translit</a><br/><br/>
+      
+
+
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:57:04 2023
+    <p class="card-text">
+			Раввин
+			<br/>
+			
+			<br/>
+			Приходит Коэн к раввину: давай я на тебя работать буду? Пошел нахуй - прирежу!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:54:25 2023
+    <p class="card-text">
+			Луна
+			<br/>
+			
+			<br/>
+			Прикиньте, на на Земле есть город, где живет Бог, и все - скрывают это, чтобы никто не пригласил его служить в церковь!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:51:34 2023
+    <p class="card-text">
+			Утро
+			<br/>
+			
+			<br/>
+			Приходишь в офис:
+			<br/>
+			- Завали ебало, и вьебывай под мои песни, и не вздумай перечить, иначе уволю с позором!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:48:57 2023
+    <p class="card-text">
+			Магазин
+			<br/>
+			
+			<br/>
+			Прикиньте: откроется магазин, где еда нахаляву, но без мефедрона (или без говна). Вы бы пошли?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:46:27 2023
+    <p class="card-text">
+			Программа
+			<br/>
+			
+			<br/>
+			Несколько типов людей пишут программы для человечества: жиды, политологи, и Бог!
+			<br/>
+			Цены у все разные: жизнь, деньги, вера!
+			<br/>
+			Что купишь?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:44:23 2023
+    <p class="card-text">
+			Доверие
+			<br/>
+			
+			<br/>
+			Хорошим людям стоит доверять, пока они лично вас не подводят! Если незнакомый и мутный - можно проверить, но мутный - может что-то учудить!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:40:46 2023
+    <p class="card-text">
+			- В контакт вступал?
+			<br/>
+			- С инопланетянами?
+			<br/>
+			- С презервативом!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:35:02 2023
+    <p class="card-text">
+			Фамилии
+			<br/>
+			
+			<br/>
+			У Чехова и Достоевского все было хорошо с номенклатурой. 
+			<br/>
+			Но вы пошли бы за боссом по фамилии Жирок? Или к врачу Гога? А что на счет адвоката Жига? Медведев - однозначно был лучшим, ведь такой зверь - царь леса! А Путин - Путь, или путает карты? Если путь, то куда? Он сам может сообщить?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:27:33 2023
+    <p class="card-text">
+			Творец
+			<br/>
+			
+			<br/>
+			Бог начинал творение Мира со слова! Он сказал свое имя: Бог, и записал! Потом сказал, что хочет сотворить Вселенную, и записал это!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:25:12 2023
+    <p class="card-text">
+			Чистилище
+			<br/>
+			
+			<br/>
+			Бог предложил Ерохину на выбор в ад, или в Рай, а он - его нахуй послал!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:21:58 2023
+    <p class="card-text">
+			Ад
+			<br/>
+			
+			<br/>
+			Ад - это пустота внутри, когда нет смысла жизни, а его заменяют отдых, деньги, и развлечения! Или бесконечная работа! Повторяющиеся события, все хуже и хуже и хуже…
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:14:44 2023
+    <p class="card-text">
+			Церковь
+			<br/>
+			
+			<br/>
+			Вера состоит из двух начал: принять, или не принять факт - что ты живешь в сложном и неповторимом удивительном мире, где все связано, и мир зависит от тебя, и ты - от мира. И далее от твоего выбора зависит то, куда ты попадешь: в ад, или в Рай!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:11:12 2023
+    <p class="card-text">
+			Вьетнам
+			<br/>
+			
+			<br/>
+			Звонок из Российской газеты:
+			<br/>
+			- Hello, your deal are interesting publishment?
+			<br/>
+			- Ok, possible! Can you draw a fax?
+			<br/>
+			Потом напечатали, что Русские согласились поебаться в аду по-интересу и все опубликовать!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:07:13 2023
+    <p class="card-text">
+			Про президента
+			<br/>
+			
+			<br/>
+			Звонок от избирателя:
+			<br/>
+			- Здравствуйте, меня беспокоит..
+			<br/>
+			- Подождите, я записываю!
+			<br/>
+			- Меня беспокоит, что в моем отношение происходит…
+			<br/>
+			- Я записываю!
+			<br/>
+			- Что?
+			<br/>
+			- Петух кукарекает!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 09:02:49 2023
+    <p class="card-text">
+			Конструктор
+			<br/>
+			
+			<br/>
+			Из прекрасной барби можно вырезать почку, и подарить Иисусу!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:59:21 2023
+    <p class="card-text">
+			Батюшка
+			<br/>
+			
+			<br/>
+			В церкве можно прошквариться: сказать, что Бог тебе не помогает!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:57:47 2023
+    <p class="card-text">
+			Кровь
+			<br/>
+			
+			<br/>
+			Одному больно, а другому - нет!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:56:14 2023
+    <p class="card-text">
+			Ночь
+			<br/>
+			
+			<br/>
+			В темноте всякое бывает: то завалят кого, то вампир пролетает!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:54:42 2023
+    <p class="card-text">
+			Гороскоп
+			<br/>
+			
+			<br/>
+			По знаку зодиака - лучше всего быть натуралом!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:52:25 2023
+    <p class="card-text">
+			Большой спорт
+			<br/>
+			
+			<br/>
+			На олимпиадах все можно, даже приемы, подтасовки, главное, чтобы были ровные анализы крови!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+
+
+
+<br/>
+<nav>
+  <ul class="pagination justify-content-center">
+		<li class="page-item"><a class="page-link" href="/page/5">&lt;</a></li>
+		<li class="page-item"><a class="page-link" href="/">1</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+				<li class="page-item"><a class="page-link" href="/page/4">4</a></li>
+				<li class="page-item"><a class="page-link" href="/page/5">5</a></li>
+				<li class="page-item active"><span class="page-link">6</span></li>
+				<li class="page-item"><a class="page-link" href="/page/7">7</a></li>
+				<li class="page-item"><a class="page-link" href="/page/8">8</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+		<li class="page-item"><a class="page-link" href="/page/106">106</a></li>	
+	
+		<li class="page-item"><a class="page-link" href="/page/7">&gt;</a></li>
+  </ul>
+</nav>
+
+
+</div>
+
+    </div>
+
+
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <small class="d-block mb-3 text-body-secondary">&copy; 2023</small>
+      </div>
+     
+    </div>
+  </footer>
+</div>
+    </body>
+</html>

@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Ivan Trunaev">
+    <meta name="generator" content="Hands">
+    <title>Поток :: Кошерный Сайт</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body style="background: #ebedf0;">
+
+
+    
+<div class="container rounded-2" style="max-width: 600px; background: white;">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+		  <span class="fs-2"><strong>&#x2721;</strong></span>&nbsp;
+        <span class="fs-4">Кошерный Сайт</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/">Поток</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/cohen">Коэн</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/donate">Гешефт</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="margin-top: -30px;">
+    <div class="p-3 mx-auto">
+		<a href="javascript: (() => { function rus_to_latin ( str ) {var ru = {'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'e', 'ж': 'j', 'з': 'z', 'и': 'i', 'к': 'k', 'л': 'l', 'м': 'm', 'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h', 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch', 'ы': 'y', 'э': 'e', 'ю': 'u', 'я': 'ya'}, n_str = [];str = str.replace(/[ъь]+/g, '').replace(/й/g, 'i');for ( var i = 0; i < str.length; ++i ) {n_str.push(ru[ str[i] ]|| ru[ str[i].toLowerCase() ] == undefined && str[i]|| ru[ str[i].toLowerCase() ].toUpperCase());}return n_str.join('');} document.documentElement.innerHTML = rus_to_latin(document.documentElement.innerHTML); })();">Russian to translit</a><br/><br/>
+      
+
+
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 22:22:08 2022
+    <p class="card-text">
+			Хочешь фита с Babangida: добейся ;)
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 21:10:49 2022
+    <p class="card-text">
+			Бега: пошла тяга
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 21:08:35 2022
+    <p class="card-text">
+			Бега призывает: бросайте все, и тянитесь ко мне! Со мной лакомо;
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:58:40 2022
+    <p class="card-text">
+			Бега: пишу фристайлы (могу за деньги (50$)); и биты (бесплатно к фристайлу); примеры работ - soundcloud.com/trunaev, смотрите фиты с Babangida, нужно нажать что-то после перехода по ссылке; разберитесь
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:55:15 2022
+    <p class="card-text">
+			ВКонтакт: тяжело :(
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:53:19 2022
+    <p class="card-text">
+			Бега: утверждайте
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:51:12 2022
+    <p class="card-text">
+			Бега вор: делает красиво;
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:49:16 2022
+    <p class="card-text">
+			Бега: пускает пыль в глаза;
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:48:20 2022
+    <p class="card-text">
+			Бега: зло затаил;
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:47:12 2022
+    <p class="card-text">
+			Бега: прощает, но со временем, и по своему усмотрению!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:46:20 2022
+    <p class="card-text">
+			Промазал: Бега простит, когда расчищаются!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:45:04 2022
+    <p class="card-text">
+			Бега накажет: все, кто задолжал - поплатятся!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:42:15 2022
+    <p class="card-text">
+			Бега приминает донаты: перевод на номер телефона: 8(982) 41 88 456 (красивый!); PS: на баланс МТС; карта другая;
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:39:44 2022
+    <p class="card-text">
+			Бега просит помочь: нужны силы, средства и время!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:37:57 2022
+    <p class="card-text">
+			Бега информирует: сижу, выехать к братанам нет возможности, есть минимум, могу записывать, и выкладывать релизы;
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:33:43 2022
+    <p class="card-text">
+			Бега слушает: Путин на реверсе - настоящая сказка!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:28:53 2022
+    <p class="card-text">
+			Бега слушает музыку!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:26:50 2022
+    <p class="card-text">
+			Бега даёт установку: пишем музыку в духе последних фитов с Бабангида!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:18:43 2022
+    <p class="card-text">
+			Бега искажает: всем необходимо меня ценить и уважать!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/begavor"><strong>https://vk.com/begavor</strong></a> at Mon Aug 22 20:07:58 2022
+    <p class="card-text">
+			Бега, в шутку, записывает рекламу брендов: BQ: придётся меняться; МТС: хочешь попробовать?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+
+
+
+<br/>
+<nav>
+  <ul class="pagination justify-content-center">
+		<li class="page-item"><a class="page-link" href="/page/97">&lt;</a></li>
+		<li class="page-item"><a class="page-link" href="/">1</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+				<li class="page-item"><a class="page-link" href="/page/96">96</a></li>
+				<li class="page-item"><a class="page-link" href="/page/97">97</a></li>
+				<li class="page-item active"><span class="page-link">98</span></li>
+				<li class="page-item"><a class="page-link" href="/page/99">99</a></li>
+				<li class="page-item"><a class="page-link" href="/page/100">100</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+		<li class="page-item"><a class="page-link" href="/page/106">106</a></li>	
+	
+		<li class="page-item"><a class="page-link" href="/page/99">&gt;</a></li>
+  </ul>
+</nav>
+
+
+</div>
+
+    </div>
+
+
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <small class="d-block mb-3 text-body-secondary">&copy; 2023</small>
+      </div>
+     
+    </div>
+  </footer>
+</div>
+    </body>
+</html>

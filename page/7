@@ -1,0 +1,397 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Ivan Trunaev">
+    <meta name="generator" content="Hands">
+    <title>Поток :: Кошерный Сайт</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body style="background: #ebedf0;">
+
+
+    
+<div class="container rounded-2" style="max-width: 600px; background: white;">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+		  <span class="fs-2"><strong>&#x2721;</strong></span>&nbsp;
+        <span class="fs-4">Кошерный Сайт</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/">Поток</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/cohen">Коэн</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/donate">Гешефт</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="margin-top: -30px;">
+    <div class="p-3 mx-auto">
+		<a href="javascript: (() => { function rus_to_latin ( str ) {var ru = {'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'e', 'ж': 'j', 'з': 'z', 'и': 'i', 'к': 'k', 'л': 'l', 'м': 'm', 'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h', 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch', 'ы': 'y', 'э': 'e', 'ю': 'u', 'я': 'ya'}, n_str = [];str = str.replace(/[ъь]+/g, '').replace(/й/g, 'i');for ( var i = 0; i < str.length; ++i ) {n_str.push(ru[ str[i] ]|| ru[ str[i].toLowerCase() ] == undefined && str[i]|| ru[ str[i].toLowerCase() ].toUpperCase());}return n_str.join('');} document.documentElement.innerHTML = rus_to_latin(document.documentElement.innerHTML); })();">Russian to translit</a><br/><br/>
+      
+
+
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:49:00 2023
+    <p class="card-text">
+			Работа
+			<br/>
+			
+			<br/>
+			Если денег нет, то можно и в рот взять - главное не дойти до зоны!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:46:06 2023
+    <p class="card-text">
+			Шансон
+			<br/>
+			
+			<br/>
+			Жалко нет радио для геев: Киркоров, Моисеев, Паша Техник!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:43:32 2023
+    <p class="card-text">
+			ЕГЭ
+			<br/>
+			
+			<br/>
+			Жалко, что у нас в стране нет эказемена по педерастии для школьников 11 класса!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:41:22 2023
+    <p class="card-text">
+			Коробка
+			<br/>
+			
+			<br/>
+			Во дворе бывает всякое: можно и в футбик порезаться, а можно и в рот взять!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:39:19 2023
+    <p class="card-text">
+			Выпивка
+			<br/>
+			
+			<br/>
+			Если дойка - коричневая - день заебцом!
+			<br/>
+			Как пивко!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:36:26 2023
+    <p class="card-text">
+			Улыбка
+			<br/>
+			
+			<br/>
+			Злой оскал гнилозубого бомжа - означает позитив:
+			<br/>
+			- Есть че выпить, корявый?
+			<br/>
+			Что тут ответить?
+			<br/>
+			- Не ковыряй, вижу карма как марка!
+			<br/>
+			- ???, - смущенное лицо.
+			<br/>
+			- Выкладывай все - накину на гланды!
+			<br/>
+			И ты - принимаешь!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:32:54 2023
+    <p class="card-text">
+			Деревня
+			<br/>
+			
+			<br/>
+			Мухи и жуки копошатся в коровьем дерьме как менты у педика в жопе, в поисках кокаина, а он - смеется!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:26:06 2023
+    <p class="card-text">
+			Моржиха
+			<br/>
+			
+			<br/>
+			Одна барыня на Руси обожала зимнее купание: проруби кололи крепостные, а она ныряла - толи посрать, толи чтобы рыба пизду почистила! Однажды даже заплаты под лед, хотела удивить рыбака - и ее унесло…
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:17:09 2023
+    <p class="card-text">
+			Про повара
+			<br/>
+			
+			<br/>
+			На кухне не просто! Пахнет едой свежевшей! Но повар - йог, готовит по особой книге: удафф.ком. Добавляет перчинку: мысли о своей мамке в каждый стручок сельдерини!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 08:10:46 2023
+    <p class="card-text">
+			Про девчонок
+			<br/>
+			
+			<br/>
+			Помните тосты: первая - за дам, вторая - за любовь, третья - мировая.
+			<br/>
+			Война начинается с любви. Точнее, с ее нехватки. Кун смотрит: у всех ламповые тян, а он - скородрочит. И превращается в гитлера - забухивает!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 07:50:17 2023
+    <p class="card-text">
+			Про Азию
+			<br/>
+			
+			<br/>
+			Срано в Азии: везде бушметы шмыгают пронюханными носами, ожидают чего-то: толи разницы во впечатлениях от городских пейзажей, толи халявной выпивки от туристов.
+			<br/>
+			Выбирают они так: дешевое - нам, дорогое - если угощают. Дома - скромно, почти ничего, кроме старых артефактов - сабель предков, помойных находок, типа шарфиков на день рождения.
+			<br/>
+			Дома у них бывают жены: хорошенькие, но только для гостей. Как и это рассказ?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 07:40:59 2023
+    <p class="card-text">
+			О перегрузке
+			<br/>
+			
+			<br/>
+			По водой не так как на высоте! На орбите на МКС выращивают в экспериментальных целях каннабис, а на дне - ебучий водоросли, которые едят даже не все караси. Как у бабы муди: вьются на ветру! Стали бы кушать? А давление - пиздец - череп лопается, и ничего не понятно от мефедрона!
+			<br/>
+			Самое страшное: сказать вообще ничего не возможно - стоит попробовать, и ты захлебываешься от тяжелой воды!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 07:34:12 2023
+    <p class="card-text">
+			Сказка о полях
+			<br/>
+			
+			<br/>
+			На равнине было два края - с озером и с дорогой, с разных сторон - как поля в тетрадке у школьника для двоек красной пастой. «Что поешь?», - начал писать школьник и задумался, а неграмотная училка дописала: «Пою тройку в это раз!». Повезло, что сытый был, а то остался до самого вечера отдрачивать за дозу пороха у старшеклассников!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 07:20:31 2023
+    <p class="card-text">
+			День Паши Техника
+			<br/>
+			
+			<br/>
+			(Не обессудьте, в этом тексте не о Паше Технике, я его лично не знаю, может это будет обо мне, или о простых пацанах, которые любят рэп, занимаются ЭМСИингом).
+			<br/>
+			
+			<br/>
+			Самое просто: глянуть в окно, проверить, не летят ли торпеды из Китая. Здорово, что не летят, можно попить чая с ксанаксом.
+			<br/>
+			Если чай хороший, а торпед нет, можно принят еще ксанакса.
+			<br/>
+			Потом можно послушать любимый трек? Оп, в новостях пишут про матч Торпедо с Китайской командой. Лучше не поеду в центр бухать, а ограничусь ксанаксом.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 04:52:52 2023
+    <p class="card-text">
+			Если бы я стал Директором ВКонтакте (если кто-то скажет, что это сделает - пиздабол, утащил у Yahwe):
+			<br/>
+			
+			<br/>
+			1. Я бы собрал команду, которая сделает хороший web.
+			<br/>
+			2. Переписал бы ядро на Perl, и Mojolicous, и сам бы проводил аудит кода.
+			<br/>
+			3. Убрал бы дорогие (тяжелые по серверам) сервисы, типа бесплатных стримов.
+			<br/>
+			4. Привлек бы блоггеров по модели Дзен (стал бы платить долю от рекламы всем "верифицированным").
+			<br/>
+			5. Упросил бы верификацию - сделал бы авторизацию с гос.услуг. (fixed)
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 04:50:09 2023
+    <p class="card-text">
+			Про инвестиции в Интернете:
+			<br/>
+			
+			<br/>
+			1. Нужно покупать только то, что сможешь развивать. Просто купить что-то - выбросить деньги. 90% компаний в Интернет - убыточны, потому что не могут реализовать коммерчески-успешных сервис, и живут за счет пузырей IPO.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 04:26:49 2023
+    <p class="card-text">
+			О приложениях:
+			<br/>
+			
+			<br/>
+			1. На среднем компьютере установлено от 3000 приложений с вирусами, которые пользователи сами ставили. Есть даже утилита, которая все это устанавливает. Dobro pack, но нет утилиты, чтобы все это снести. Секрет - она ставит Tor без блока РКН.
+			<br/>
+			2. На каждом компьютер около 3 тяжелый игры: Dota, Wow, LA2, либо CS:GO, LD Arena + Q Live.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 04:18:34 2023
+    <p class="card-text">
+			О музыкальных слушателях в России:
+			<br/>
+			
+			<br/>
+			1. В 90-ых было около миллиона, кто фанател от Гражданской Обороны, потом армия в 2004 разрослась почти до 100 миллионов. Почти все умерли от наркотиков в 1998-2009 от амфетамина.
+			<br/>
+			2. Сейчас 90% слушаю Сатана Печет Блины. А от Техника устали - он пошлый, говеный, гейский, вторичный. Кишлака не заметили. Таких - 80 млн.
+			<br/>
+			3. Около 200 млн. на планете слушали Yahwe, но потом испугались инфы, что люди пропадают, а Yahwe их есть, ее все подтверждают, но не могут доказать, даже фото нет. Живых около 2-3 млн. а умерно - 86 млн. людей от действий правительств мира.
+			<br/>
+			
+			<br/>
+			Странно, что по ТВ и Радио нет Yahwe, Летова, Свидригайлова и Техника. Было бы коммерчески успешно.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 18 04:14:24 2023
+    <p class="card-text">
+			О пользователях Компьютеров, Мобильных и Интернет:
+			<br/>
+			
+			<br/>
+			1. 90% - безграмотные, это дети от 3 до 7 лет, которые не умеют даже читать и писать, общаются голосом. Странно, что родители покупают машину ребенку, вместо обучения грамоте. Что будет потом?
+			<br/>
+			2. 3% читают посты и текста, причем почти все, что попадается, это люди, которые устают на работе от хуевых задач.
+			<br/>
+			3. Остальные 7% - бабы, которые смотрят картинки с модой, и покупают в интернет-магазинах товары для дома, или одежду.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+
+
+
+<br/>
+<nav>
+  <ul class="pagination justify-content-center">
+		<li class="page-item"><a class="page-link" href="/page/6">&lt;</a></li>
+		<li class="page-item"><a class="page-link" href="/">1</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+				<li class="page-item"><a class="page-link" href="/page/5">5</a></li>
+				<li class="page-item"><a class="page-link" href="/page/6">6</a></li>
+				<li class="page-item active"><span class="page-link">7</span></li>
+				<li class="page-item"><a class="page-link" href="/page/8">8</a></li>
+				<li class="page-item"><a class="page-link" href="/page/9">9</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+		<li class="page-item"><a class="page-link" href="/page/106">106</a></li>	
+	
+		<li class="page-item"><a class="page-link" href="/page/8">&gt;</a></li>
+  </ul>
+</nav>
+
+
+</div>
+
+    </div>
+
+
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <small class="d-block mb-3 text-body-secondary">&copy; 2023</small>
+      </div>
+     
+    </div>
+  </footer>
+</div>
+    </body>
+</html>

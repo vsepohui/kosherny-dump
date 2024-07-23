@@ -1,0 +1,441 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Ivan Trunaev">
+    <meta name="generator" content="Hands">
+    <title>Поток :: Кошерный Сайт</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body style="background: #ebedf0;">
+
+
+    
+<div class="container rounded-2" style="max-width: 600px; background: white;">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+		  <span class="fs-2"><strong>&#x2721;</strong></span>&nbsp;
+        <span class="fs-4">Кошерный Сайт</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/">Поток</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/cohen">Коэн</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/donate">Гешефт</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="margin-top: -30px;">
+    <div class="p-3 mx-auto">
+		<a href="javascript: (() => { function rus_to_latin ( str ) {var ru = {'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'e', 'ж': 'j', 'з': 'z', 'и': 'i', 'к': 'k', 'л': 'l', 'м': 'm', 'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h', 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch', 'ы': 'y', 'э': 'e', 'ю': 'u', 'я': 'ya'}, n_str = [];str = str.replace(/[ъь]+/g, '').replace(/й/g, 'i');for ( var i = 0; i < str.length; ++i ) {n_str.push(ru[ str[i] ]|| ru[ str[i].toLowerCase() ] == undefined && str[i]|| ru[ str[i].toLowerCase() ].toUpperCase());}return n_str.join('');} document.documentElement.innerHTML = rus_to_latin(document.documentElement.innerHTML); })();">Russian to translit</a><br/><br/>
+      
+
+
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/post_bard"><strong>https://vk.com/post_bard</strong></a> at Wed Dec 27 06:08:04 2023
+    <p class="card-text">
+			Neutral Milk Hotel - In the Aeroplane Over the Sea (1998)
+			<br/>
+			
+			<br/>
+			Почти пост-бард из США.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/post_bard"><strong>https://vk.com/post_bard</strong></a> at Wed Dec 27 06:03:39 2023
+    <p class="card-text">
+			Syd Barret - Melk Weg (1986)
+			<br/>
+			
+			<br/>
+			Живой альбом пост-барда от Syd Barrett.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/post_bard"><strong>https://vk.com/post_bard</strong></a> at Wed Dec 27 06:02:05 2023
+    <p class="card-text">
+			Syd Barrett - Opel (1988)
+			<br/>
+			
+			<br/>
+			Пост-бард от лидера группы Pink Floyd.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/post_bard"><strong>https://vk.com/post_bard</strong></a> at Wed Dec 27 05:58:38 2023
+    <p class="card-text">
+			Thom Yorke - Live at Bridge School Benefit (2002-10-26,27)
+			<br/>
+			
+			<br/>
+			Пост-бард от лидера группы Radiohead.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/post_bard"><strong>https://vk.com/post_bard</strong></a> at Wed Dec 27 05:44:59 2023
+    <p class="card-text">
+			Егор Летов - Вершки и Корешки (1990)
+			<br/>
+			
+			<br/>
+			Акустичесий пост-бард от Егор Летова, лидера группы Гражданская Оборна.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/post_bard"><strong>https://vk.com/post_bard</strong></a> at Wed Dec 27 05:36:22 2023
+    <p class="card-text">
+			Леня Федоров - Четыресполовинойтонны (1997)
+			<br/>
+			
+			<br/>
+			То, с чего, возможно, начался пост-бард.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Wed Dec 27 04:32:36 2023
+    <p class="card-text">
+			С этого релиза брали семплы Дельфин на Механическом Псе, и странный альбом Coil был.
+			<br/>
+			А релиз был загружен в интернет-архив еще в 2010 году:
+			<br/>
+			https://archive.org/details/YoniNoiseSession2010-03-23
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Wed Dec 27 03:17:27 2023
+    <p class="card-text">
+			Планы для Майкрософт.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/kasha_kitchen"><strong>https://vk.com/kasha_kitchen</strong></a> at Wed Dec 27 02:45:38 2023
+    <p class="card-text">
+			Рецепт «Макарошки с поджаркой»
+			<br/>
+			
+			<br/>
+			1. 300-350 граммов макарон ракушек отварить в воде с солью до готовности.
+			<br/>
+			2. 400 граммов свежей, ожлажденной рубленой свинины подражать в небольшом количестве растительного масло. Бульон не выливать. Через 3-4 минуты долить 100 мл сливок.
+			<br/>
+			3. Когда свинина будет готова - добавить макароны, перемешать, и обжарить еще немного.
+			<br/>
+			4. Добавить специи.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Wed Dec 27 01:07:15 2023
+    <p class="card-text">
+			Планы
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Wed Dec 27 00:07:38 2023
+    <p class="card-text">
+			В 2024 году, скорее всего, выйдет совместный альбом Сергея Михалка, лидера проекта Brutto, Drezden, и Ляпист Трубецкой, и вокалистки Земфиры. Альбом будет состоять из шести композиций. К ним на проект присоединятся два козыря, скорее всего это будут Mujuice и Кишлак. Альбом будет посвящен пагубным пристрастиям, где Земфира их одолеет!
+			<br/>
+			Как будет называться проект? И как альбом?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 26 11:52:46 2023
+    <p class="card-text">
+			О лицензии
+			<br/>
+			
+			<br/>
+			Все, что я публикую в сети Интернет можно использовать в любых целях. Самое главное - указываете на автора, если продаете коммерческий продукт (или что-то, что может быть перепродано в дальнейшем), а можете и поделиться. 
+			<br/>
+			Должна сохраняться лицензия Open Source - написал книгу, если продаешь, отдавай и бесплатно, снял кино - продаешь, но давай и бесплатно. итд.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 26 11:48:44 2023
+    <p class="card-text">
+			Как создаит музыкальную студию для записи:
+			<br/>
+			
+			<br/>
+			1. Нужен микшер, или два-три микшера с USB выходами. Оптимально брать недорогие модели Behringer.
+			<br/>
+			2. Нужен один или два ноутбука, с приложениями Renoise и Ableton Live
+			<br/>
+			3. Нужны гитарные педали эфектов для обработки звука.
+			<br/>
+			4. Нужен синтезатор с необычным звуком, кливиши. Можно взяли любой ретро-инструмент со скупа.
+			<br/>
+			5. Нужен барабанные контроллер, или синтезатор. Roland 404, либо любой хороший Midi, можно взять Rainbo Midi.
+			<br/>
+			6. Нужен дешевый непружинные матрац для записи без шума.
+			<br/>
+			7. Нужны стерео-монитры, например недорогие Edifier.
+			<br/>
+			8. Нужен профессиональный диктофон, либо iPhone.
+			<br/>
+			
+			<br/>
+			Как собрать:
+			<br/>
+			
+			<br/>
+			1. Подключаешь ноубуки к микшерам через USB как звуковую карту, запускаешь программы. Один ноутбук для барабанов, другой - для синтезаторов. Можно сделать все на одном. 
+			<br/>
+			2. Синтезатор подключаешь через педали эфектов в микшер.
+			<br/>
+			3. Микшера комутируешь на мастер микшер.
+			<br/>
+			4. Записываешь минус.
+			<br/>
+			5. Диктофон кладешь на матрца, и сам на него встаешь, и под минус поешь.
+			<br/>
+			6. В микшер можно подключать электрогитару, либо бас-гитару через педали эфектов.
+			<br/>
+			7. Можно записывать песню с акустической гитарой под минус. 
+			<br/>
+			8. Если записываешь акустический инструмент, как пантию, но пиши в тишине на диктофон на матраце, а потом - загружай в DAW.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/kunteynir_ru"><strong>https://vk.com/kunteynir_ru</strong></a> at Tue Dec 26 05:43:07 2023
+    <p class="card-text">
+			Жигуля
+			<br/>
+			
+			<br/>
+			Были у моего деда старые Жигуля
+			<br/>
+			Как конфетка, не оторвешься от руля
+			<br/>
+			Когда мы катались - все девчонки были наши
+			<br/>
+			А сейчас Жигуля берут только алкаши
+			<br/>
+			Плохо, что у синевы нет в моде анаши
+			<br/>
+			Так бы дунули, и катались на лоурайдерах 
+			<br/>
+			То что надо, было бы
+			<br/>
+			Бывало со мной под анашой всякое
+			<br/>
+			Какое я вам расскажу потом
+			<br/>
+			А пока про Жигули
+			<br/>
+			
+			<br/>
+			Лежали мы с девчонками в траве
+			<br/>
+			Ветер был наш
+			<br/>
+			Как шаман ветер
+			<br/>
+			Я тер пизду бабе рукой
+			<br/>
+			Она сказала: ой
+			<br/>
+			И поцеловала
+			<br/>
+			Хуй встал
+			<br/>
+			Я ее выебал
+			<br/>
+			Как кинжал хуй в пизду вошел
+			<br/>
+			Шомпол ее вертел
+			<br/>
+			Тетерев пел
+			<br/>
+			Лепил хуем люто
+			<br/>
+			Ок?
+			<br/>
+			
+			<br/>
+			А теперь про Жигули
+			<br/>
+			Бухнули мы с бабами
+			<br/>
+			Макар они сказали
+			<br/>
+			Раком ставай я ответил
+			<br/>
+			И выебал
+			<br/>
+			Нажал заебись
+			<br/>
+			Лучше чем в порно
+			<br/>
+			Лучше чем в порно
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/kunteynir_ru"><strong>https://vk.com/kunteynir_ru</strong></a> at Tue Dec 26 05:29:08 2023
+    <p class="card-text">
+			Маска
+			<br/>
+			
+			<br/>
+			Я типа как MF Doom
+			<br/>
+			Все учитываю, беру на ум
+			<br/>
+			Типа закинут мне лоха
+			<br/>
+			Я его расчленяю под биток, шучу, хаха
+			<br/>
+			Главное во мне - это моя маска
+			<br/>
+			Обезьянья, опасная маска
+			<br/>
+			Она нужна мне как строителю защитная каска
+			<br/>
+			Как рыбаку леска
+			<br/>
+			Как мяснику - тесак
+			<br/>
+			Как педику - висяк
+			<br/>
+			Как растаману - косяк
+			<br/>
+			Без маски я отдыхаю
+			<br/>
+			Пью чаи, пыхаю 
+			<br/>
+			Баб ебу, гоняю на море купаца 
+			<br/>
+			С пацанами
+			<br/>
+			Пончик нынче четки 
+			<br/>
+			Меф - ниочем 
+			<br/>
+			Хую в пизде горячо
+			<br/>
+			(Пишем Блев тречок?)
+			<br/>
+			Бля, уже же пишется…
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 26 05:17:08 2023
+    <p class="card-text">
+			Примерно десять лет назад, когда я еще жил в Москве, и у меня не было денег, я пошел на дело - разделся по-пояс, взял плеер с музыкой FPG, и даже не обувшись, без носков, отправился в магазин Перекресток. Там на меня, с белым пакетом в руке, никто не обратил внимание…
+			<br/>
+			Я взял три бутылки водки Finlandia, кажется по 0.7 литров, положил их в пакет, и вышел.
+			<br/>
+			Шли годы, и я часто возвращался к мысли, что принес ущерб магазину.
+			<br/>
+			На днях я написал в службу поддержки Перекрестка обращение, просил соединить меня со службой безопасности, хотел как-то отдать им деньги за эту водку, но они сообщили, что это невозможно.
+			<br/>
+			Что делать? Как с этим жить? Идти в монастырь?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+
+
+
+<br/>
+<nav>
+  <ul class="pagination justify-content-center">
+		<li class="page-item"><a class="page-link" href="/page/1">&lt;</a></li>
+				<li class="page-item"><a class="page-link" href="/page/1">1</a></li>
+				<li class="page-item active"><span class="page-link">2</span></li>
+				<li class="page-item"><a class="page-link" href="/page/3">3</a></li>
+				<li class="page-item"><a class="page-link" href="/page/4">4</a></li>
+				<li class="page-item"><a class="page-link" href="/page/5">5</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+		<li class="page-item"><a class="page-link" href="/page/106">106</a></li>
+	
+		<li class="page-item"><a class="page-link" href="/page/3">&gt;</a></li>
+  </ul>
+</nav>
+
+
+</div>
+
+    </div>
+
+
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <small class="d-block mb-3 text-body-secondary">&copy; 2023</small>
+      </div>
+     
+    </div>
+  </footer>
+</div>
+    </body>
+</html>

@@ -1,0 +1,454 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Ivan Trunaev">
+    <meta name="generator" content="Hands">
+    <title>Поток :: Кошерный Сайт</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body style="background: #ebedf0;">
+
+
+    
+<div class="container rounded-2" style="max-width: 600px; background: white;">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+		  <span class="fs-2"><strong>&#x2721;</strong></span>&nbsp;
+        <span class="fs-4">Кошерный Сайт</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/">Поток</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/cohen">Коэн</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/donate">Гешефт</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="margin-top: -30px;">
+    <div class="p-3 mx-auto">
+		<a href="javascript: (() => { function rus_to_latin ( str ) {var ru = {'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'e', 'ж': 'j', 'з': 'z', 'и': 'i', 'к': 'k', 'л': 'l', 'м': 'm', 'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h', 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch', 'ы': 'y', 'э': 'e', 'ю': 'u', 'я': 'ya'}, n_str = [];str = str.replace(/[ъь]+/g, '').replace(/й/g, 'i');for ( var i = 0; i < str.length; ++i ) {n_str.push(ru[ str[i] ]|| ru[ str[i].toLowerCase() ] == undefined && str[i]|| ru[ str[i].toLowerCase() ].toUpperCase());}return n_str.join('');} document.documentElement.innerHTML = rus_to_latin(document.documentElement.innerHTML); })();">Russian to translit</a><br/><br/>
+      
+
+
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/yahwe_music"><strong>https://vk.com/yahwe_music</strong></a> at Mon Dec 27 21:13:17 2021
+    <p class="card-text">
+			A - D E
+			<br/>
+			---
+			<br/>
+			Кто видел крест монаха?
+			<br/>
+			Кто в шапке Мономаха?
+			<br/>
+			Кто родился в рубахе?
+			<br/>
+			Кто слышал крыльев взмахи?
+			<br/>
+			
+			<br/>
+			Кто пел в ночи как Летов?
+			<br/>
+			Кто ездил без билетов?
+			<br/>
+			Кто в кассу с пистолетом?
+			<br/>
+			Кто покрывает туз валетом?
+			<br/>
+			
+			<br/>
+			Кто умер этой ночью?
+			<br/>
+			Кто как и ты такой же точно?
+			<br/>
+			Кто ставил в руки точки?
+			<br/>
+			Кто ходит без заточки?
+			<br/>
+			
+			<br/>
+			Кто жаждал позитива?
+			<br/>
+			Кто зверь без коллектива?
+			<br/>
+			Кто как детя сопливый?
+			<br/>
+			Кто верит в креативы?
+			<br/>
+			
+			<br/>
+			Кто обосрал штанину?
+			<br/>
+			Кто любит бабу Нину?
+			<br/>
+			Кто целится Визином?
+			<br/>
+			Кто грабил магазины?
+			<br/>
+			
+			<br/>
+			Кто первый неудачник?
+			<br/>
+			Кто выкинул задачник?
+			<br/>
+			Кто шутит слишком мрачно?
+			<br/>
+			Кто как всегда невзрачен?
+			<br/>
+			
+			<br/>
+			Кто Бога презирает?
+			<br/>
+			Кто сам себя не знает?
+			<br/>
+			Кто без ганджи скучает?
+			<br/>
+			Кто с разума съезжает?
+			<br/>
+			
+			<br/>
+			Кто хочет слишком много?
+			<br/>
+			Кто главный недотрога?
+			<br/>
+			Кто против диалога?
+			<br/>
+			Кто жаждет некролога?
+			<br/>
+			
+			<br/>
+			Кто ищет Бадхисаттву?
+			<br/>
+			Кто пьяный как десантник?
+			<br/>
+			Кто бьет всегда в десятку?
+			<br/>
+			Кто варит по утрам овсянку?
+			<br/>
+			
+			<br/>
+			Кто будет под запретом?
+			<br/>
+			Кто по весне нас встретит?
+			<br/>
+			Кто будет в холода раздетым?
+			<br/>
+			Кто Иисуса воскресит?
+			<br/>
+			
+			<br/>
+			Кто будет по субботам?
+			<br/>
+			Кто бродит по сугробам?
+			<br/>
+			Кто самый сумасбродный?
+			<br/>
+			Кто юродив-уродлив?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/yahwe_music"><strong>https://vk.com/yahwe_music</strong></a> at Tue Nov 30 15:50:41 2021
+    <p class="card-text">
+			Два новых трека
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/yahwe_music"><strong>https://vk.com/yahwe_music</strong></a> at Fri Nov 12 12:13:12 2021
+    <p class="card-text">
+			С этого момента и далее на все будущее, если иное не будет объявлено отдельно, заявляю, что все мое творчество: музыка, посты, стихи, фото, видео принадлежат народу, или просто - народные. Вы можете слушать, распространять, исполнять, каверить, делать ремиксы, что угодно, хоть проклинать или продавать это на своих условиях и по своему желанию и усмотрению. Всем спасибо! Мир! Любовь!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/yahwe_music"><strong>https://vk.com/yahwe_music</strong></a> at Tue Nov  9 21:49:11 2021
+    <p class="card-text">
+			Swingin guitar
+			<br/>
+			---
+			<br/>
+			Хочу рассказать вам про гитару на которой я играю: у меня не обычный строй. Вместо первой струны (E), я натягиваю пятую, и строю ее на два полутона выше (в H), получается необычный звук. Аккорды зажимать почти также. 
+			<br/>
+			Попробуйте, кто хочет.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/yahwe_music"><strong>https://vk.com/yahwe_music</strong></a> at Sat Oct 23 18:31:48 2021
+    <p class="card-text">
+			yoni noise session @ 2010​-​03​-​23
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/yahwe_music"><strong>https://vk.com/yahwe_music</strong></a> at Thu Oct 21 15:59:58 2021
+    <p class="card-text">
+			Хочешь? Хочешь? Хочешь хочешь?
+			<br/>
+			Хочу! Хочу! Хочу! Хочу!
+			<br/>
+			А в голос? А в голос? А в голос? А в голос? 
+			<br/>
+			Вот! Вот! Вот! Вот!
+			<br/>
+			
+			<br/>
+			Мама говорит... Мама говорит...
+			<br/>
+			Папа говорит... Папа говорит...
+			<br/>
+			Путин говорит.... Путин говорит....
+			<br/>
+			Навальный говорит.... Навальный говорит....
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/yahwe_music"><strong>https://vk.com/yahwe_music</strong></a> at Tue Oct 19 11:15:18 2021
+    <p class="card-text">
+			Yahwe - Unagamma IV
+			<br/>
+			
+			<br/>
+			Записи за 18-19 октября 2021 г.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/yahwe_music"><strong>https://vk.com/yahwe_music</strong></a> at Sun Oct 17 18:45:33 2021
+    <p class="card-text">
+			Yahwe - Unagamma III
+			<br/>
+			
+			<br/>
+			Микстейп из моих записей за 17 октября 2021г.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/yahwe_music"><strong>https://vk.com/yahwe_music</strong></a> at Sun Oct 17 18:15:31 2021
+    <p class="card-text">
+			Колодец (Зоуи)
+			<br/>
+			
+			<br/>
+			Опускайся в канаву по-шире, это покруче ширева.
+			<br/>
+			
+			<br/>
+			Меня посадили в колодец, когда мне было три года. 
+			<br/>
+			Не помню этого урода. Может быть это был мой отец, или его отчим. 
+			<br/>
+			Не помню, впрочем это не важно. Главное, что я здесь и все заебись. 
+			<br/>
+			Все на мази, так сказать. Тут сыро и слизко. Ночь близко. 
+			<br/>
+			Тучи над головой плывут низко. 
+			<br/>
+			Кажется, прошло уже три тысячи лет, и теперь я тут одна. 
+			<br/>
+			Я не в обиде. Одна, одна, уродка, одна. 
+			<br/>
+			Теперь мне уже не пять, и все у меня на пять.
+			<br/>
+			Опять, снова, дни устала считать. 
+			<br/>
+			В колодце я жду гостей, обычно приходят без новостей.
+			<br/>
+			Раз-два-три-жертва в колодец приходи, 
+			<br/>
+			я тебя знаю, ты мой гость, я твой гвоздь.
+			<br/>
+			
+			<br/>
+			Когда я была еще малой питалась я только тиной, 
+			<br/>
+			Теперь узнала же про кровь, плоть и кишки. 
+			<br/>
+			Мозговая жижа, когда пристынет сильно похожа на холодец. 
+			<br/>
+			Его готовил для всей семьи мой отец. 
+			<br/>
+			Первое блюдо, как и второе - я почитаю.
+			<br/>
+			И одно знаю, кто ко мне попадет, уже не молодец. 
+			<br/>
+			Кроме всего плохого, что есть на земле, есть еще я под землей. 
+			<br/>
+			Приходи ко мне в колодец скорей, будешь мой. 
+			<br/>
+			Придешь, и делу конец, в голове застынет ужаса холодец.
+			<br/>
+			
+			<br/>
+			Загибаю пальчик - привет мой зайчик. 
+			<br/>
+			Загибаю второй - скоро ты будешь мой. 
+			<br/>
+			Загибаю третий - настал час ответить. 
+			<br/>
+			Работаю зубами, руками. Кости топчу. Зло хохочу. 
+			<br/>
+			Когда настанет время, всплыву тело проверить. 
+			<br/>
+			
+			<br/>
+			Первым был брат отца. Этого осла я не спасла, 
+			<br/>
+			Он упал в колодец, когда хотел утолить жажду после пробежки. 
+			<br/>
+			Ела его не в спешке.
+			<br/>
+			
+			<br/>
+			Второй была его дочь, точь-в-точь похожа. Ну вылитая рожа. Ее я тоже съела. Ну что за дело.
+			<br/>
+			Третьей была ее мать. Точнее мамка. Откуда - не знамко.
+			<br/>
+			Всех и не сосчитать. Запомни, в колодец не надо плевать.
+			<br/>
+			
+			<br/>
+			Раз-два-три - вокруг посмотри. Впереди колодец. Не проходи молодец.
+			<br/>
+			Раз-два-три - в колодец приходи. В моей дыре пусто. Покушаем вкусно.
+			<br/>
+			Раз-два-три - вокруг посмотри. Впереди колодец. Не проходи молодец.
+			<br/>
+			Раз-два-три - в колодец приходи. В моей дыре пусто. Покушаем вкусно.
+			<br/>
+			
+			<br/>
+			Тихо на дне колодца, одна только тина, и кишки последнего кретина.
+			<br/>
+			Тихо на дне колодца, на дне стужа, на душе пурга.
+			<br/>
+			
+			<br/>
+			Раз-два-три-четыре-пять - начинаю опять. 
+			<br/>
+			Считаю до трех, потом поднимаюсь со дна. На дне тоска. На дне тина. 
+			<br/>
+			На верху же весна. На верху мясо.
+			<br/>
+			
+			<br/>
+			Я работаю через воду, могу переселиться к вам в любую погоду, хотя предпочитаю колодцы, в них проще в жертвой бороться.
+			<br/>
+			Могу даже появиться у тебе под водой в ванной, когда ты лежишь там на расслабоне пьяный. 
+			<br/>
+			
+			<br/>
+			Раз-два-три-четыре-пять - начинаю играть. Чур я вожу. А ты я гляжу, первый раз в игре - тогда скорей ко мне.
+			<br/>
+			Раз-два-три-четыре - раскрываю рот пошире.
+			<br/>
+			Раз-два-три - замри и умри.
+			<br/>
+			Раз-два - закрою твои глаза.
+			<br/>
+			Раз - вот такой рассказ.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/yahwe_music"><strong>https://vk.com/yahwe_music</strong></a> at Sun Oct 17 15:48:44 2021
+    <p class="card-text">
+			Хочешь, хочешь, хочешь, хочешь?
+			<br/>
+			Хочу! Хочу! Хочу! Хочу!
+			<br/>
+			Вот! Вот! Вот! Вот!
+			<br/>
+			А в голос? А в голос? А в голос? А в голос? 
+			<br/>
+			
+			<br/>
+			Мама говорит! Мама говорит!
+			<br/>
+			Папа говорит! Папа говорит!
+			<br/>
+			Путин говорит! Путин говорит!
+			<br/>
+			Навальный говорит! Навальный говорит!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+
+
+
+<br/>
+<nav>
+  <ul class="pagination justify-content-center">
+		<li class="page-item"><a class="page-link" href="/page/101">&lt;</a></li>
+		<li class="page-item"><a class="page-link" href="/">1</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+				<li class="page-item"><a class="page-link" href="/page/101">101</a></li>
+				<li class="page-item active"><span class="page-link">102</span></li>
+				<li class="page-item"><a class="page-link" href="/page/103">103</a></li>
+				<li class="page-item"><a class="page-link" href="/page/104">104</a></li>
+				<li class="page-item"><a class="page-link" href="/page/105">105</a></li>
+				<li class="page-item"><a class="page-link" href="/page/106">106</a></li>
+	
+		<li class="page-item"><a class="page-link" href="/page/103">&gt;</a></li>
+  </ul>
+</nav>
+
+
+</div>
+
+    </div>
+
+
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <small class="d-block mb-3 text-body-secondary">&copy; 2023</small>
+      </div>
+     
+    </div>
+  </footer>
+</div>
+    </body>
+</html>

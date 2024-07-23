@@ -1,0 +1,439 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Ivan Trunaev">
+    <meta name="generator" content="Hands">
+    <title>Поток :: Кошерный Сайт</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body style="background: #ebedf0;">
+
+
+    
+<div class="container rounded-2" style="max-width: 600px; background: white;">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+		  <span class="fs-2"><strong>&#x2721;</strong></span>&nbsp;
+        <span class="fs-4">Кошерный Сайт</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/">Поток</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/cohen">Коэн</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/donate">Гешефт</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="margin-top: -30px;">
+    <div class="p-3 mx-auto">
+		<a href="javascript: (() => { function rus_to_latin ( str ) {var ru = {'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'e', 'ж': 'j', 'з': 'z', 'и': 'i', 'к': 'k', 'л': 'l', 'м': 'm', 'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h', 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch', 'ы': 'y', 'э': 'e', 'ю': 'u', 'я': 'ya'}, n_str = [];str = str.replace(/[ъь]+/g, '').replace(/й/g, 'i');for ( var i = 0; i < str.length; ++i ) {n_str.push(ru[ str[i] ]|| ru[ str[i].toLowerCase() ] == undefined && str[i]|| ru[ str[i].toLowerCase() ].toUpperCase());}return n_str.join('');} document.documentElement.innerHTML = rus_to_latin(document.documentElement.innerHTML); })();">Russian to translit</a><br/><br/>
+      
+
+
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 20:52:48 2023
+    <p class="card-text">
+			Кино «Звезда»
+			<br/>
+			
+			<br/>
+			Маниак-психапат становится популярным в интернет из-за скандала, он сообщил, что кто-то убил звезду старых фильмов, то есть его, и он живет в параллельном пространстве, но на деле у него - фильтры программного обеспечения. Он собирает донейты, объясняя это - я буду кормить птиц, и помогать бедным, а на деле - заказывает наемником на всех, кто узнает про его тайну, и ест мясо.
+			<br/>
+			Стоимость убийцы в России - около 40.000 рублей за тело!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 20:47:45 2023
+    <p class="card-text">
+			Представьте самых плохих людей на свете, хуже маниаков-убийц: Гитлера и Муссолини, тех кто хотели убить всю вселенную только из-за того, что никто не знал, что они геи. Что будет, если их убьешь?
+			<br/>
+			У вас родятся такие дети - вы усложните себе жизнь. Поэтому - не облегчайте им жизнь, они постоянно страдают, и главное - не платите таким страдальцам деньги, не обучайте их! Все будет использовано против вас!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 20:40:38 2023
+    <p class="card-text">
+			О косметике
+			<br/>
+			
+			<br/>
+			1. Мужчинам ее использовать нельзя, как и женщинам - расширяются поры почти на всю жизнь
+			<br/>
+			2. Странная она - нужно говорить: «Впитай» лицом, а потом корова, инвалид, из сала которой делали эту бяку - снится всю ночь, и видится в галлюцинациях!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 20:14:53 2023
+    <p class="card-text">
+			Как стать Зомби:
+			<br/>
+			
+			<br/>
+			1. Растение или человек после ДОБ возвращается в офис, не продумав как будет себя вести, и начинает заживать - стоить из себя козыря, цитатника, знатока, мажора, популярного, авторского, лампового, лучшее что он может сделать - стать Диджеем на пьянках.
+			<br/>
+			Таким не давать баб - пусть живут сами.
+			<br/>
+			Если человек 10 зомбится - его убивают на улице прохожие (Джон Леннон, Лев Троцкий).
+			<br/>
+			Признак зомби - тяга на море, марихуана в рабочее время, трудоголизм с зависимости при низком коэффициенте своих открытий. 
+			<br/>
+			Может стать человеком спустя 100 лет, или 10 после смерти в зависимости от кармы.
+			<br/>
+			Хороших не убивают - кто достиг как минимум Бодхичитты сам.
+			<br/>
+			Не давать: клозапин, водку, морфий, дешевый табак, опиоиды.
+			<br/>
+			Нужен чистый провиант, и вода, и труд, чтобы себя прокормить!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 20:03:34 2023
+    <p class="card-text">
+			Как стать почвой: 
+			<br/>
+			
+			<br/>
+			1. Насекомое не находит шамана, которое его обучит, и просто погибает от ДОБ.
+			<br/>
+			2. Признак - алкоголизм второй степени, и параноидная шизофрения на 20 лет с трипа ДОБ. Я.
+			<br/>
+			3. Через 20 лет почва может дать всходы и оформить новое государство, если есть живые ученики!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 20:00:43 2023
+    <p class="card-text">
+			Как стать жуком:
+			<br/>
+			
+			<br/>
+			1. Насекомое попадает в муравейник, офис, например, где все трудятся, но не признается, что он - говно. Он срет всем людям - что офис - говно. Признак жука - трезвенник в офисе, и на людях из их компании. Увольнять таких надо!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 19:58:34 2023
+    <p class="card-text">
+			Как стать насекомым:
+			<br/>
+			
+			<br/>
+			1. Овощу рассказывают как общаться жуки, ставят школы диктора, учат задавать наводящие вопросы, отвечать корректно. Насекомых убивает Солнце - то есть свой утренний ум. Если проснувшихся ты чувствуешь себя говном, ты - насекомое. У насекомых, и бывших насекомых светлые с рождения волосы, а лицо - бледное - вампиры!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 19:55:26 2023
+    <p class="card-text">
+			Как стать овощем:
+			<br/>
+			
+			<br/>
+			1. Растение лишаю корней - родной земли, и среды обитания. Урожай. Признак овощей - красная рожа даже без хмеля. Мак - губит овощей и бывших овощей с одной-двух доз.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 19:53:12 2023
+    <p class="card-text">
+			Как стать растением:
+			<br/>
+			
+			<br/>
+			1. Нужно под ЛСД, или в силу самовнушения признать, что ты - не умеешь общаться, и ждать полива информацией, и так жить изо дня в день. Только слушать, но не рассказывать никогда, что у тебя на уме.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 19:41:37 2023
+    <p class="card-text">
+			Как в Индии в XIX веке проверяли навык письма:
+			<br/>
+			
+			<br/>
+			1. Человек оставался один в комнате на сутки с минимумом воды и провианта. Без кровати, но с огнем.
+			<br/>
+			2. Ему нужно было начать разговаривать вслух, как будто он записывает вручную, или кто-то записывает.
+			<br/>
+			3. Через сутки давало 10 листов, и нужно было записать произведение.
+			<br/>
+			За ним подслушивали, и если выяснялось, что он пишет по памяти, не так как говорил, ему ставили - провал на экзамене.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 19:38:05 2023
+    <p class="card-text">
+			Касты в Мировой Иерархии.
+			<br/>
+			
+			<br/>
+			Их около двухсот. Перечислю вкратце:
+			<br/>
+			1. Верховные не боги, а настоящие люди, которые все поняли у трудятся на славу вручную - пишут что-то полезное для людей.
+			<br/>
+			2. Чуть ниже: тех кто прошкварились ранее на писаниях. Почти в подземелье. В Индии для таких есть около 205.000.000 «подвидов».
+			<br/>
+			3. Остальные: животные, растения, насекомые. Трудятся вручную без буквы. Называют себя М-а-а-г-а-ми. Писать грамотно не умеют вообще, и с трудом учатся. Способны к обучению, только если перестанут закладывать. Платить таким деньги - грех в Индии.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 19:29:17 2023
+    <p class="card-text">
+			Про Матрицу
+			<br/>
+			
+			<br/>
+			Когда ее в первый раз показали, мой отец заявил после просмотра:
+			<br/>
+			- Фильм непростой, не каждому понять, в нем глубокий философский смысл.
+			<br/>
+			А я глянул - обычный боевичок средней руки.
+			<br/>
+			Поэтому думайте: если видите в курином говне структу космоса - это может быть обманка только вашего восприятия. Вспомните десткие фильмы? Почему тогда так не заморачивались? Может быть сознание не было так омрачненено опытом общения с петухами? Или вы сами ими стали?
+			<br/>
+			Как вернуться? Вспомнить как попали: и запомни вход, и больше туда не ходить!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 19:24:18 2023
+    <p class="card-text">
+			Книга Хотея начинается со слов о Мандале, но не все знают, что кроме устоявшегося значения, есть еще и исконное: мандала - какое-то дельное украшение, или подношение, выполненное своими руками.
+			<br/>
+			Поэтому, будьте аккуратны, если покупаете бижутерию, или красивую одежду - на ней может изображаться мандала! Даже в логотипе!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 18:15:22 2023
+    <p class="card-text">
+			Перевод Смехы Мира из Книги Иисуса
+			<br/>
+			
+			<br/>
+			1. Доверенно: от Шивы - передаю слова Хотэя Ло. Четыре истины заложено в этой схеме. Читай через главы, либо подряд, чтобы все понять о себе - все это череда событий в твоей жизни.
+			<br/>
+			2. Лег на пол, либо на кровать, что хуже, самое плохое - на софу, либо на диван с пружинами.
+			<br/>
+			3. Проснулся поел - покурил уснул. Либо проснулся рано утром, если читал с пункта два. Далее будет 4 варианта на выбор. 
+			<br/>
+			4.1. Поел плохой пищи из холодильника родных, либо поел химических наркотиков, либо, если есть деньги - сходил в магазин. Можно, что неплохо - даже в пожертвования Шиве - вернется.
+			<br/>
+			4.2 Награжил себя подарками, а потом - либо сел на зону, либо уснул (пошел на работу мятый после сна, либо после наркотиков из пункта 4.1, зря ты так читаешь.
+			<br/>
+			4.3. Содомия на работе, либо в дневном офисе на выезде, если ты - полный черт.
+			<br/>
+			4.4 Фабрикованное дело о выносе у кого-то из дома ценностей, убийство свидетелей на деле, конченный ад ради фана и денег по мелочи - ничтожество, типа таракана, который ползет с чужой дом, таких хлопаю, и они либо просыпаются, либо переворачиваются вверх брюшками - читай 4.б. если так.
+			<br/>
+			4.а. Выход из комы и соитие с самим собой, медитация для дела, что очень здорово - самый лучший путь для начала дня.
+			<br/>
+			4.б. Клиническая смерть от передоза, либо самоубийства, либо на разборках за сферы влияния.
+			<br/>
+			
+			<br/>
+			Далее будет продолжение!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 18:03:43 2023
+    <p class="card-text">
+			Книга Иисуса
+			<br/>
+			
+			<br/>
+			Копали пацаны кладбище, хотел полакомиться трупом. То ли некрофилы, то ли наркоманы, то ли готы. Сами даже еще не разобрались. До этого читали библию, и думали если нагрешить пиздец - то превзойдут Сатану, и обретут супер-мощь. Оказалось нихуя - раскопали Сатану. Оказалось, что Сатана - это Сид Барретт почти по состоящий - длинный хвост-дред, пробитые типа колами руки, все лицо изуродованно, а да на груди надпись на иврите: "Иисус Христ.!", а рядом приписка - "Никому не трогать до 2008 года от Рождества Христова" на хинди с переводом на тибетский. Пацаны посмотрели на часы - было две минуты до Нового Года. От мороза хотелось бухнуть водки...
+			<br/>
+			На другой день их нашли пьяными около станции электричек Выхино. Иисус исчез, как и память об окончании вечера, вспоминались только прожектора, мегафоны и какой-то серый газ. 
+			<br/>
+			- Что там было, Елизаров? - спросил кент будущего писателя.
+			<br/>
+			- Какая-то тряпка, типа его трусы, я спрятал себе в нужник.
+			<br/>
+			- Я прочитать успел, там Та Самая Книга.
+			<br/>
+			- Как?
+			<br/>
+			- Я понял письменность, смотри., - от развернул лист, и начал читать водя пальцем по-диагонале, - Видимо вот, центр нашел. А дальше схема Мира как у меня на фото в комнате. (Приложу его с iPhone через минуту).
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 15:08:26 2023
+    <p class="card-text">
+			"Зачем тебе учить? Не ходи отдыхать" - но это слова, перед которыми перед моим ртом быстро исчезают киски.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 11:24:30 2023
+    <p class="card-text">
+			Мантия Ионна Воина
+			<br/>
+			
+			<br/>
+			В лесу к Будде Воину подошел Шакьямуни:
+			<br/>
+			- Хотел одеться?
+			<br/>
+			- Охуительно, людоед посреди леса!
+			<br/>
+			Так у него появилась Мантия!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 11:18:12 2023
+    <p class="card-text">
+			Про Иоанна Мудреца
+			<br/>
+			
+			<br/>
+			В старину считалось, что это святой жил где-то в Азии, но на самом деле - это был доверенный муж Жанны-Д’Арк, которая убивала революционеров за отказ от революции, и они вдвоем создали империю крупнее Римской, от Австрии до Сибири, подчинили Руси, а потом - наняли Чингиз-Хана все это охранять!
+			<br/>
+			Город Казань лично заложил Иоанн Мудрец! Он адаптировал Татарский на основе Казахского диалекта Китайского - основу Арабского, и дал первую в мире письменность после Рун! За это его и изображают на иконах со свитком, а в нем:
+			<br/>
+			- Роки-та та, трехо Джа -ГиЛО сва Вами!
+			<br/>
+			Перевод:
+			<br/>
+			- Мудрость с Вами, Коран, Марихуана, и Гашиш из Индии…
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 11:11:07 2023
+    <p class="card-text">
+			Про Ионна Война
+			<br/>
+			
+			<br/>
+			Если вы видели икону, вы не могли не изумиться: парень с копьем. На самом деле оно - не из Вавилона, а ученик Иван IV Грозного, святой Будда, который прибыл в Московью из Индии пешком, и про него легенда о Будде, пересекшем Гималаи. Так вот…
+			<br/>
+			Иван Воин, звали его Джоа, носил мантию из ЧЕЛОВЕЧЕСКОЙ КОЖИ, и это изображено на иконе!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 11:07:27 2023
+    <p class="card-text">
+			Лучшая часть из Библии - Апокалипсис Иоанна Богослова
+			<br/>
+			
+			<br/>
+			В ней хоть не пиздят как попасть в ад: подходят - и забирают в крытку. Потом - заставляют жить по чужим понятиям (опускают, по Петрову ВП), потом - заставляют совершить самоубийство. Так было с Иисусом, когда к нему пришел Иуда!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+
+
+
+<br/>
+<nav>
+  <ul class="pagination justify-content-center">
+		<li class="page-item"><a class="page-link" href="/page/3">&lt;</a></li>
+				<li class="page-item"><a class="page-link" href="/page/1">1</a></li>
+				<li class="page-item"><a class="page-link" href="/page/2">2</a></li>
+				<li class="page-item"><a class="page-link" href="/page/3">3</a></li>
+				<li class="page-item active"><span class="page-link">4</span></li>
+				<li class="page-item"><a class="page-link" href="/page/5">5</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+		<li class="page-item"><a class="page-link" href="/page/106">106</a></li>
+	
+		<li class="page-item"><a class="page-link" href="/page/5">&gt;</a></li>
+  </ul>
+</nav>
+
+
+</div>
+
+    </div>
+
+
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <small class="d-block mb-3 text-body-secondary">&copy; 2023</small>
+      </div>
+     
+    </div>
+  </footer>
+</div>
+    </body>
+</html>

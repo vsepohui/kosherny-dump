@@ -1,0 +1,407 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Ivan Trunaev">
+    <meta name="generator" content="Hands">
+    <title>Поток :: Кошерный Сайт</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body style="background: #ebedf0;">
+
+
+    
+<div class="container rounded-2" style="max-width: 600px; background: white;">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+		  <span class="fs-2"><strong>&#x2721;</strong></span>&nbsp;
+        <span class="fs-4">Кошерный Сайт</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/">Поток</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/cohen">Коэн</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/donate">Гешефт</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="margin-top: -30px;">
+    <div class="p-3 mx-auto">
+		<a href="javascript: (() => { function rus_to_latin ( str ) {var ru = {'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'e', 'ж': 'j', 'з': 'z', 'и': 'i', 'к': 'k', 'л': 'l', 'м': 'm', 'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h', 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch', 'ы': 'y', 'э': 'e', 'ю': 'u', 'я': 'ya'}, n_str = [];str = str.replace(/[ъь]+/g, '').replace(/й/g, 'i');for ( var i = 0; i < str.length; ++i ) {n_str.push(ru[ str[i] ]|| ru[ str[i].toLowerCase() ] == undefined && str[i]|| ru[ str[i].toLowerCase() ].toUpperCase());}return n_str.join('');} document.documentElement.innerHTML = rus_to_latin(document.documentElement.innerHTML); })();">Russian to translit</a><br/><br/>
+      
+
+
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sun Dec 17 23:41:04 2023
+    <p class="card-text">
+			О рабстве
+			<br/>
+			
+			<br/>
+			На Руси у должников было два варианта: ехать в зону, либо в крепостные! Поэтому думайте…
+			<br/>
+			Но некоторые выбирают свой путь, например уезжают на Гоа умирать!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sun Dec 17 23:32:27 2023
+    <p class="card-text">
+			Сказка о банках
+			<br/>
+			
+			<br/>
+			Не каждый может открыть банк! Почти каждый «банк» - просто шарашка, которая взяла кредит, и начала выдавать займы под больший процент. Что если им не вернут? Хороший банкир возьмет еще один кредит, а дальше все как у пелевина - ящики копятся, а там - пустые бутылки! Порой, если повезет, кредиты перепродают государству или коллекторам, но жалко, что у нас невозврат по кредиту не расценивается как мошенничество! Договор то был!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sun Dec 17 23:20:27 2023
+    <p class="card-text">
+			Сказка о деньгах
+			<br/>
+			
+			<br/>
+			Надежная валюта? Если держишь капитал в банке, то можешь проиграться. Россия держит ресурс в золоте, а оно колеблется. Евреи сами оценивают его стоимость по качеству! А со временем - оно портится из-за обработки! Слиток может подешеветь в несколько раз за год из-за плохого хранения! Лучше бы пересчитали количество купюр, монет, и ассигнированного в цифре - и опубликовали для иностранных партнеров. Тогда Европейцы и Американцы бы охуели! Может быть у нас не в 100 раз больше рублей (как по курусу), а в три! Тогда с учетом населения, а в США, примерно, в 2 раза больше популяции, курс будет 1.5 рубля за доллар, и мы бы зажили богато!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sun Dec 17 23:13:15 2023
+    <p class="card-text">
+			А потом все удивляются, почему рубль дешевеет. Интересно, за этот миллиард заплатят вкладчики Сбера, акционеры, или бюджет России?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sun Dec 17 18:28:36 2023
+    <p class="card-text">
+			Yahwe - пост-бард
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sun Dec 17 17:57:49 2023
+    <p class="card-text">
+			Yahwe - Горы Урал
+			<br/>
+			Аккорд: Em C7 H7
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/moy_zvuk"><strong>https://vk.com/moy_zvuk</strong></a> at Sat Dec 16 01:51:16 2023
+    <p class="card-text">
+			https://youtu.be/dOoR2C_3q1U?si=xcT_SR3y5DpqmSKM
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Fri Dec 15 06:59:29 2023
+    <p class="card-text">
+			Пидорасы!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Wed Dec 13 19:40:40 2023
+    <p class="card-text">
+			Попросил опубликовать мой сценарий (Декоснтрукция пути обычного человека) в паблике - админ быдло!
+			<br/>
+			
+			<br/>
+			Самое интересно, что ебнул, а потом - сам забанил!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 12 15:38:30 2023
+    <p class="card-text">
+			Все мои соц сети:
+			<br/>
+			https://vk.com/ivan_trunaev (DEAD, but mirror at - https://yahwe.kosherny.site/ru/blog)
+			<br/>
+			https://vk.com/vsepohui_ru
+			<br/>
+			https://m.vk.com/begavor (LOSED)
+			<br/>
+			https://m.vk.com/bogavor (LOSED)
+			<br/>
+			https://m.vk.com/shesofreenia (LOSED)
+			<br/>
+			https://m.vk.com/bibingo (LOSED)
+			<br/>
+			https://m.vk.com/yahwe_music (LOSED, BUT MANY MUSIC)
+			<br/>
+			https://vk.com/kosherny_news
+			<br/>
+			https://vk.com/cosmos_story
+			<br/>
+			https://vk.com/king_magazin
+			<br/>
+			https://vk.com/books_magazin
+			<br/>
+			https://vk.com/buddha_story
+			<br/>
+			https://vk.com/kunteynir_ru
+			<br/>
+			https://vk.com/moy_zvuk
+			<br/>
+			https://vk.com/kasha_kitchen
+			<br/>
+			https://vk.com/pelevin_book
+			<br/>
+			https://vk.com/beka_chura
+			<br/>
+			https://vk.com/ivan_iv_grozniy
+			<br/>
+			https://vk.com/pelevin_sex
+			<br/>
+			https://vk.com/anarchy_press (LOSED)
+			<br/>
+			
+			<br/>
+			Web-sites:
+			<br/>
+			https://yahwe.kosherny.site/ (OLD yahwe.ru mirror)
+			<br/>
+			https://kosherny.site
+			<br/>
+			https://anarchy-press.ru
+			<br/>
+			
+			<br/>
+			Telegram:
+			<br/>
+			https://t.me/apple_cohen
+			<br/>
+			https://t.me/true_president
+			<br/>
+			https://t.me/vedaus
+			<br/>
+			https://t.me/shiwa_veto
+			<br/>
+			
+			<br/>
+			https://vsepohui.bandcamp.com/
+			<br/>
+			https://soundcloud.com/trunaev
+			<br/>
+			https://soundcloud.com/vsepohui
+			<br/>
+			https://twitter.com/opiate_lepicure/
+			<br/>
+			https://www.instagram.com/ivan.trunaev/
+			<br/>
+			https://www.last.fm/user/trunaev
+			<br/>
+			https://www.last.fm/user/yoni_yoni_yoni (LOSED)
+			<br/>
+			https://github.com/vsepohui
+			<br/>
+			https://github.com/trunaev (LOSED)
+			<br/>
+			https://dzen.ru/shiwa
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 12 15:19:42 2023
+    <p class="card-text">
+			На портале Субкультура вышло коммерческое интервью со мной:
+			<br/>
+			
+			<br/>
+			https://sub-cult.ru/musicnews/recenz/14240-intervyu-s-muzykantom-i-poetom-yahwe
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 12 15:15:26 2023
+    <p class="card-text">
+			Продолжение рассказа «Замкнутые системы Чарли Бронсона» из моему книги «Веселый Будда». Рассказ, скорее всего войдет в новую книгу.
+			<br/>
+			————-
+			<br/>
+			Деконструкция пути свободного человека
+			<br/>
+			
+			<br/>
+			Представьте героя какого-нибудь известного кинофильма, с хорошим концом. Он достиг цели! У него есть деньги, победа над врагами, выполненная миссия, и любовь.
+			<br/>
+			Что ждет его дальше?
+			<br/>
+			Правильно — поражение, как у классиков экзистенциализма.
+			<br/>
+			Пройдет десять лет, и наш герой, постаревший, с лысиной на голове сидит на лужайке, около домика. Денег почти не осталось. Жена располнела, и подурнела. Начала причмокивать, совсем вульгарно:
+			<br/>
+			- Пойдем со мной в магазин, нахал!
+			<br/>
+			А герой, еле сдерживаясь от того, чтобы не разбить бокал с маргаритой отвечает:
+			<br/>
+			- Самая время понять, что я — мразь, ибо жизнь так нас подготовила друг для друга!
+			<br/>
+			На выходных, во время ремонта ноутбука, выясняется, что у жены трое любовников в переписке, сама она просила два года назад деньги не на отдачу старого кредита, а за выкуп видео из порно-каталога, причем семейного, свадебного.
+			<br/>
+			- Что ты думаешь об этом?, - герой бьет кулаком по физиономии наглой женщины с перепоя.
+			<br/>
+			И попадает на всю жизнь в психиатрию. Она сдала.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 11 05:46:05 2023
+    <p class="card-text">
+			История сказки: книга
+			<br/>
+			
+			<br/>
+			Выяснилось, что у книги Хотэя было три читателя, и читали они ее постоянно годы напролет, только скрывали это.
+			<br/>
+			Какие они оставляли отзывы публике на платных литературных вечерах (они думали, что там нужно показать себя):
+			<br/>
+			- Он оскалился!
+			<br/>
+			- Он осмотрелся!
+			<br/>
+			- Он оглянулся!
+			<br/>
+			- Он не ищет любви с женщинами!
+			<br/>
+			- Он презирает некоторых близких!
+			<br/>
+			…
+			<br/>
+			Они не знали, что так высирая - они закладывают себя - сообщают о своем бекграунде, где он пересекается с книгой.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 11 05:02:56 2023
+    <p class="card-text">
+			История мира: сказка
+			<br/>
+			
+			<br/>
+			Следующая вселенная началась с удара: в дверь кто-то постучал, а дом был на месте. Было за сутки до взрыва - а до этого мы смотрели «кино» о том, как мы хотели уничтожить мир по одной простой причине: у нас не было Книги, которую мы считали необходимой, причем, так считал каждый лично, но ни с кем это не обсуждал. Это была книга Хотэя «Веселый Растаман» о хиппи. Как мы дошли до маразма, что каждый на плане хотел забрать ее себе, расскажу в три этапа:
+			<br/>
+			1. Мы купили марихуану. Ее купил и Хотэй.
+			<br/>
+			2. Когда ее не стало из-за политики правителя - появилась книга, и все решили, что так тайна - как жить без марихуаны, но что «перло» так же.
+			<br/>
+			3. Когда выяснилось, что книга продается за три пива - ее запретили, и ее никто не мог достать.
+			<br/>
+			Пункты 2-3 - были часть плана Иисуса Христа, и его товарища Шакьяма. Но об этом тогда никто не знал.
+			<br/>
+			В общем, вышло так, что за 3-5 минут до детонации Хотэя убили - и потом опять - конец Света.
+			<br/>
+			     Но потом - было хуже - без него.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 11 04:34:06 2023
+    <p class="card-text">
+			Сказка: история мира
+			<br/>
+			
+			<br/>
+			Все началось еще в древней вселенной, когда Кони ходили на шести ногах: две отпиливали на буженину, и приделывали еще 3 или 4 (в зависимости от пола), но полу-механические. С тихими атомными двигателями. Кони, хуями, с приделанными робо-матыгами, пахали Землю. Им было не тяжело - помогала механика, и гидравлика. Но было больно - когда отпускали стероиды. Кони жила 3-4 года максимум. А потом: конечности снимали - и на свалку.
+			<br/>
+			Когда свалки переполниличь - произошло накопление критической массы изотопа радия. И ядерный взрыв.
+			<br/>
+			Планету уничтожило, и ничего - не осталось.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+
+
+
+<br/>
+<nav>
+  <ul class="pagination justify-content-center">
+		<li class="page-item"><a class="page-link" href="/page/8">&lt;</a></li>
+		<li class="page-item"><a class="page-link" href="/">1</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+				<li class="page-item"><a class="page-link" href="/page/7">7</a></li>
+				<li class="page-item"><a class="page-link" href="/page/8">8</a></li>
+				<li class="page-item active"><span class="page-link">9</span></li>
+				<li class="page-item"><a class="page-link" href="/page/10">10</a></li>
+				<li class="page-item"><a class="page-link" href="/page/11">11</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+		<li class="page-item"><a class="page-link" href="/page/106">106</a></li>	
+	
+		<li class="page-item"><a class="page-link" href="/page/10">&gt;</a></li>
+  </ul>
+</nav>
+
+
+</div>
+
+    </div>
+
+
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <small class="d-block mb-3 text-body-secondary">&copy; 2023</small>
+      </div>
+     
+    </div>
+  </footer>
+</div>
+    </body>
+</html>

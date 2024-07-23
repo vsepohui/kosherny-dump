@@ -1,0 +1,283 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Ivan Trunaev">
+    <meta name="generator" content="Hands">
+    <title>Поток :: Кошерный Сайт</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body style="background: #ebedf0;">
+
+
+    
+<div class="container rounded-2" style="max-width: 600px; background: white;">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+		  <span class="fs-2"><strong>&#x2721;</strong></span>&nbsp;
+        <span class="fs-4">Кошерный Сайт</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/">Поток</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/cohen">Коэн</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/donate">Гешефт</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="margin-top: -30px;">
+    <div class="p-3 mx-auto">
+		<a href="javascript: (() => { function rus_to_latin ( str ) {var ru = {'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'e', 'ж': 'j', 'з': 'z', 'и': 'i', 'к': 'k', 'л': 'l', 'м': 'm', 'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h', 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch', 'ы': 'y', 'э': 'e', 'ю': 'u', 'я': 'ya'}, n_str = [];str = str.replace(/[ъь]+/g, '').replace(/й/g, 'i');for ( var i = 0; i < str.length; ++i ) {n_str.push(ru[ str[i] ]|| ru[ str[i].toLowerCase() ] == undefined && str[i]|| ru[ str[i].toLowerCase() ].toUpperCase());}return n_str.join('');} document.documentElement.innerHTML = rus_to_latin(document.documentElement.innerHTML); })();">Russian to translit</a><br/><br/>
+      
+
+
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sun Dec 10 13:29:37 2023
+    <p class="card-text">
+			Психиатрия для Воров!
+			<br/>
+			
+			<br/>
+			В бюджете заложено - 1 млн. русских рублей на содержание пациента в больнице!
+			<br/>
+			
+			<br/>
+			https://youtu.be/sH6wkRUCd3U?si=XbRVSAmtdQPyQUql
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sun Dec 10 08:51:26 2023
+    <p class="card-text">
+			Ohmygod! by DJ Tape
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sun Dec 10 08:50:34 2023
+    <p class="card-text">
+			Ohmygod! by DJ Tape
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Fri Dec  8 06:07:45 2023
+    <p class="card-text">
+			Если во ВКонтакте выложить что-то про мамку, может случится следующее:
+			<br/>
+			
+			<br/>
+			1. Она поедет на телевидение жаловаться на тебя, а тебя ничего не скажет
+			<br/>
+			2. Лишь спустя 10 лет - ты поймешь, почему у тебя не бабы, и ты сидишь без работы!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://t.me/apple_cohen/44"><strong>https://t.me/apple_cohen/44</strong></a> at Thu Dec  7 23:57:30 2023
+    <p class="card-text">
+			Начал работать над печатным изданием Анархия - <a href="http://anarchy-press.ru/" target="_blank" rel="noopener">anarchy-press.ru</a>
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Dec  7 23:52:12 2023
+    <p class="card-text">
+			Начал работу над печатный изданием Анархия - anarchy-press.ru
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Thu Dec  7 03:44:44 2023
+    <p class="card-text">
+			Гадание на будущее России:
+			<br/>
+			
+			<br/>
+			1. Все мужчины будут зарабатывать + новый лидер
+			<br/>
+			2. Няшная тян, достойные девушки для достойных парней
+			<br/>
+			3. Сила. Россия будет брать Мир
+			<br/>
+			4. Большое будущее у Страны
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/moy_zvuk"><strong>https://vk.com/moy_zvuk</strong></a> at Thu Dec  7 02:29:40 2023
+    <p class="card-text">
+			Fresh, taste & sweet!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://t.me/apple_cohen/43"><strong>https://t.me/apple_cohen/43</strong></a> at Wed Dec  6 23:42:49 2023
+    <p class="card-text">
+			Учение о работе<br/><br/>Работа начинается с ума: это рот, и уши. Послушай, что вокруг, нравится звуки? Если тишина - нарушай ее, если ситуация позволяет, и слушай свой голос. Так, ты поймешь, что у тебя в голове. Читай книги и текста вслух, чтобы слушать - так будет работать ум&#33;  Это работа&#33; Думай, что ты читаешь - человек за сутки может обработать лишь ограниченное количество листов информации, потом - кашка из кастрюли будет вываливаться.<br/>Работа начинается с ума: сам сказал: возьмусь за эту работу, потом оценил, если нет риска, или опасности - делаешь&#33; Так делается чудо&#33;
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec  5 07:30:32 2023
+    <p class="card-text">
+			Посмотрите на этого красавчика!)
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec  5 06:58:49 2023
+    <p class="card-text">
+			Будущее политики России
+			<br/>
+			
+			<br/>
+			Опыт Американцев показывает безусловное преимущество двухпартийной системы.
+			<br/>
+			Надеюсь, что в нашей стране, мы тоже поскорее к такому прийдем. 
+			<br/>
+			Очевидно, что демократия себя изжила - что такое диктатура пролетариата? Законы стара?
+			<br/>
+			Нужна власть идеологически-подкованных кадров.
+			<br/>
+			Самые деятельные, и передовые - Троцкисты. Так вышло, что они разделились на два лагеря: лирики, и практики, или проще говоря: социалисты, и анархисты. Если вы гуманитарий - вам к социалистам, инженерам-технарям - к анархистам.
+			<br/>
+			
+			<br/>
+			Сейчас у нас есть только две такие партии:
+			<br/>
+			Социалисты - Левый Фронт
+			<br/>
+			Анархисты - Автономное Действие
+			<br/>
+			
+			<br/>
+			Надеюсь, что они поскорее выйдут из теми, и подключатся к госслужбе!
+			<br/>
+			
+			<br/>
+			Update:
+			<br/>
+			Я предложил бы им ребрендинг:
+			<br/>
+			1) Анархическая Партия - Аппарат, Up
+			<br/>
+			2) Партия Социалистов - Пас (как у Магов), PS
+			<br/>
+			Это будут: Волшебники, и Маги! (Стереть эту строку, мысль ошибочна)
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/moy_zvuk"><strong>https://vk.com/moy_zvuk</strong></a> at Tue Dec  5 05:46:26 2023
+    <p class="card-text">
+			Хорошее было время!
+			<br/>
+			
+			<br/>
+			https://youtu.be/Ee7DL5Hn6-g?si=bZiQ2WOhSw1Z4_ny
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec  5 05:12:45 2023
+    <p class="card-text">
+			Телевидение
+			<br/>
+			
+			<br/>
+			На прошлой недели на ТНТ включили во время фильма - песню Падла!
+			<br/>
+			Интересно, бывают ли еще моменты, котогда в эфиры происходят вторжения?
+			<br/>
+			Жалко, что правоохранительные органы с тами не разбираются, и в серверных телецентра - нет хорошей охраны…
+			<br/>
+			Что если на Новый Год нам покажут зэка с шампанским?
+			<br/>
+	</p>
+  </div>
+</div><br/>
+
+
+
+<br/>
+<nav>
+  <ul class="pagination justify-content-center">
+		<li class="page-item"><a class="page-link" href="/page/10">&lt;</a></li>
+		<li class="page-item"><a class="page-link" href="/">1</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+				<li class="page-item"><a class="page-link" href="/page/9">9</a></li>
+				<li class="page-item"><a class="page-link" href="/page/10">10</a></li>
+				<li class="page-item active"><span class="page-link">11</span></li>
+				<li class="page-item"><a class="page-link" href="/page/12">12</a></li>
+				<li class="page-item"><a class="page-link" href="/page/13">13</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+		<li class="page-item"><a class="page-link" href="/page/106">106</a></li>	
+	
+		<li class="page-item"><a class="page-link" href="/page/12">&gt;</a></li>
+  </ul>
+</nav>
+
+
+</div>
+
+    </div>
+
+
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <small class="d-block mb-3 text-body-secondary">&copy; 2023</small>
+      </div>
+     
+    </div>
+  </footer>
+</div>
+    </body>
+</html>

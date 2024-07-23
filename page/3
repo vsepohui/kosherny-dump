@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Ivan Trunaev">
+    <meta name="generator" content="Hands">
+    <title>Поток :: Кошерный Сайт</title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body style="background: #ebedf0;">
+
+
+    
+<div class="container rounded-2" style="max-width: 600px; background: white;">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
+		  <span class="fs-2"><strong>&#x2721;</strong></span>&nbsp;
+        <span class="fs-4">Кошерный Сайт</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/">Поток</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/cohen">Коэн</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/donate">Гешефт</a>
+        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="/links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="margin-top: -30px;">
+    <div class="p-3 mx-auto">
+		<a href="javascript: (() => { function rus_to_latin ( str ) {var ru = {'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'e', 'ж': 'j', 'з': 'z', 'и': 'i', 'к': 'k', 'л': 'l', 'м': 'm', 'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h', 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch', 'ы': 'y', 'э': 'e', 'ю': 'u', 'я': 'ya'}, n_str = [];str = str.replace(/[ъь]+/g, '').replace(/й/g, 'i');for ( var i = 0; i < str.length; ++i ) {n_str.push(ru[ str[i] ]|| ru[ str[i].toLowerCase() ] == undefined && str[i]|| ru[ str[i].toLowerCase() ].toUpperCase());}return n_str.join('');} document.documentElement.innerHTML = rus_to_latin(document.documentElement.innerHTML); })();">Russian to translit</a><br/><br/>
+      
+
+
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Mon Dec 25 12:45:44 2023
+    <p class="card-text">
+			Как начать проект на Mojolicious Perl.
+			<br/>
+			1. Если вы уже поставил его, AnyEvent и EV (нужны модули из apt - make и build-essential).
+			<br/>
+			Напишите:
+			<br/>
+			mojo generate app ProjectName
+			<br/>
+			2. Перепишите файл конфига на перловый с yml.
+			<br/>
+			3. Допишите в конфигурацию параметры для hypnotoad.
+			<br/>
+			4. Запусти девел веб север: morbo script/project_name
+			<br/>
+			5. Смотрите lib, дописывайте routes, добавляйте копипэйстом Controllers и templates
+			<br/>
+			6. Используйте layout, у него прекрасный title и content
+			<br/>
+			7. Разберитесь как эскейпить параметры и не эскейпить: <%= $param %> и <%== $param %>
+			<br/>
+			8. Разберитесь со stash и flash. Флеш передается через куку. Полезен для вывода сообщений после редиректов.
+			<br/>
+			9. Научитесь сессиям и поставьте секретс для подписи куки, только не храните секректс боя в репозитории, пусть его пропишет техдир на бою руками с отдельном файле.
+			<br/>
+			10. В сессии храните айпи, что ее не утащили. 
+			<br/>
+			11. Напишите модель на основе эктив рекорда с кешом в мемкеше, и дропом кеша про изменении любого поля у строки в базе.
+			<br/>
+			12. Напишите очереди на Редис для длинных задач.
+			<br/>
+			13. Разберитесь как смешать аниэвент и моджо для долгих запросов, но без фанатизма, типа мультиплекса к базе.
+			<br/>
+			14. Прикрутите энжинкс для статики с вечными экспайрами - если файл меняется типа ксс - меняйти кверистринг в лэйауте.
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Sat Dec 23 19:07:46 2023
+    <p class="card-text">
+			https://anarchy-press.ru/creative/freddie-mercury-about-talks.html
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/moy_zvuk"><strong>https://vk.com/moy_zvuk</strong></a> at Sat Dec 23 00:13:16 2023
+    <p class="card-text">
+			Стас Михайлов!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Fri Dec 22 21:57:52 2023
+    <p class="card-text">
+			Чайтанья-чаритамрита
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Fri Dec 22 16:58:22 2023
+    <p class="card-text">
+			Hindi Sign
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Wed Dec 20 00:20:59 2023
+    <p class="card-text">
+			Вода
+			<br/>
+			
+			<br/>
+			Жидкость в голове влияет на мышление. Если пьешь много - замолкаешь на годы, а потом - только сплевываешь. Это называют оральной фиксацией, но на самом деле - реакция человека перед смертью!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 23:26:59 2023
+    <p class="card-text">
+			Православное Причастие
+			<br/>
+			
+			<br/>
+			Это, называемое, главным православным таинством (Причастие) привело в Русскую Церковь нет от страобрядцев, а из Японского Синти: Дзен-Буддизма! Причастие - практика групповой медитации: прихожанин, и Поп. Мастеру Дзен (Батюшке, по-простому), красиво сообщалось о своей главной цели на сегодняшний день (Чаянье)! (Вылечится, помириться, спасись из ада, заработать), а Батюшка, если цель хорошая - Благословлял. Если целей несколько: Батюшка смеялся - полумасть, если плохая - поправлял, например, в аду - не заработаешь! 
+			<br/>
+			За причастие брали три цены!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 21:05:23 2023
+    <p class="card-text">
+			Великая Мудрость Шивы Шри Лакши
+			<br/>
+			
+			<br/>
+			1. Зажигать один научился - не учи других.
+			<br/>
+			2. Узнаешь, что кто-то учит зажигать - убей жестоко!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 21:02:39 2023
+    <p class="card-text">
+			Про водопой
+			<br/>
+			
+			<br/>
+			В семьях все пьют из одной кружки одновременно, и писают одновременно одной струйкой. Жизнь - это ведь поток?
+			<br/>
+			Из чашки - во рты. Из пись - в унитаз. Получается поток из чашки в унитаз. Не смывайте, может животные тоже хотят попить!
+			<br/>
+	</p>
+  </div>
+</div><br/>
+<div class="card" style="">
+  <div class="card-body">
+	<img src="/i/apple_cohen.jpg" class="rounded-circle" width="32px"> 
+	&nbsp;<a href="https://vk.com/vsepohui_ru"><strong>https://vk.com/vsepohui_ru</strong></a> at Tue Dec 19 20:56:46 2023
+    <p class="card-text">
+			Жалко, что полиция может в любой момент выключить камеры из тех.обеспечения. 100% случаев убийств при «задержании» бывают, когда камера «сломана».
+			<br/>
+	</p>
+  </div>
+</div><br/>
+
+
+
+<br/>
+<nav>
+  <ul class="pagination justify-content-center">
+		<li class="page-item"><a class="page-link" href="/page/2">&lt;</a></li>
+				<li class="page-item"><a class="page-link" href="/page/1">1</a></li>
+				<li class="page-item"><a class="page-link" href="/page/2">2</a></li>
+				<li class="page-item active"><span class="page-link">3</span></li>
+				<li class="page-item"><a class="page-link" href="/page/4">4</a></li>
+				<li class="page-item"><a class="page-link" href="/page/5">5</a></li>
+		<li class="page-item"><span class="page-link">...</span></li>
+		<li class="page-item"><a class="page-link" href="/page/106">106</a></li>
+	
+		<li class="page-item"><a class="page-link" href="/page/4">&gt;</a></li>
+  </ul>
+</nav>
+
+
+</div>
+
+    </div>
+
+
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <small class="d-block mb-3 text-body-secondary">&copy; 2023</small>
+      </div>
+     
+    </div>
+  </footer>
+</div>
+    </body>
+</html>
